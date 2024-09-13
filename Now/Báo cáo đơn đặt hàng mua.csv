@@ -1,15 +1,4 @@
 ﻿Mã phiếu,Người tạo,Ngày tạo,Mã yêu cầu,Mã vật tư,Tên vật tư,Đvt (01),SỐ LƯỢNG (01),ĐVT (02),SỐ LƯỢNG (02),NGÀY CẦN,Tiền tệ,Đơn giá,Tiền thuế,Tổng tiền,Mã NCC,Tên NCC
-PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,09-02207731000000,Giắc cắm sạc xe nâng hiệu Anderson 175A,BO,5,BO,5,,VND,1,0,5,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0902202890000000,Bóng đèn led Philips TForce 40W - E27.,CAI,40,CAI,40,,VND,1,0,40,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0902202860000000,Bóng đèn led tube 1.2m 18w DE Philips (điện 2 đầu),CAI,40,CAI,40,,VND,1,0,40,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0905600560000000,Dây cáp điện cao áp silicon AC/DC. High Voltage wire 150Kv- 4.0x70.,M,5,M,5,,VND,1,0,5,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0902210780000000,Relay nhiệt EOCR - I3M420 Schneider,CAI,4,CAI,4,,VND,1,0,4,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0902201680000000,Contactor Schneider LC1D32M7 - 32A.,CAI,4,CAI,4,,VND,1,0,4,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0903901280000000,Van diện từ khí nén JANATICS - DS244P60.,CAI,5,CAI,5,,VND,1,0,5,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-109,5200111380000000,"Vòng dệt đường kính 250.5mm, khoan 3 lỗ 8mm",CAI,2,CAI,2,,VND,280000,0,560000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-109,5200111390000000,"Vòng dệt đường kính 219mm, khoan 3 lỗ 8mm",CAI,2,CAI,2,,VND,280000,0,560000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-095,Thái Nguyễn Minh Quyết,8/30/2024,PR24/08-111,HAT-PPKC-H030GP,Hạt nhựa PP kéo sợi - H030GP,Kg,49500,Kg,49500,,VND,26300,0,1301850000,NCC020007,"CÔNG TY SIBUR INTERNATIONAL TRADING (SHANG HAI) CO., LTD"
-PO08/24-096,Thái Nguyễn Minh Quyết,8/30/2024,PR24/08-112,HAT-PPKC-H030SG,Hạt nhựa PP kéo sợi - H030SG,Kg,520000,Kg,520000,,USD,945,0,491400000,NCC020017,CÔNG TY INTRACO TRADING PTE LTD
 PO07/24-001,Nguyễn Thị Đào,7/1/2024,PR24/07-001,5200103730000000,Aqua 28 (40kg),CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
 PO07/24-001,Nguyễn Thị Đào,7/1/2024,PR24/07-001,5200103770000000,Aqua32,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
 PO07/24-001,Nguyễn Thị Đào,7/1/2024,PR24/07-001,5200103780000000,Aqua 34,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
@@ -183,7 +172,7 @@ PO07/24-056,Nguyễn Thị Đào,7/16/2024,PR24/07-056,MDM-FLDO192GT,Đỏ 192C 
 PO07/24-056,Nguyễn Thị Đào,7/16/2024,PR24/07-056,MDM-FLXD2763GT,Xanh Dương 2763 FL gián tiếp,KG,50,KG,50,,VND,76000,380000,3800000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-056,Nguyễn Thị Đào,7/16/2024,PR24/07-056,MDM-FLXL3415CGT,Xanh Lá 3415C FL gián tiếp,KG,50,KG,50,,VND,76000,380000,3800000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-056,Nguyễn Thị Đào,7/16/2024,PR24/07-056,MDM-RELEXBLUEC,RELEXBLUE C,KG,50,KG,50,,VND,80000,400000,4000000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
-PO07/24-057,Thái Nguyễn Minh Quyết,7/16/2024,PR24/07-054,HAT-PPKC-H030GP,Hạt nhựa PP kéo sợi - H030GP,Kg,198000,Kg,198000,,USD,0.984,0,194832,NCC020007,"CÔNG TY SIBUR INTERNATIONAL TRADING (SHANG HAI) CO., LTD"
+PO07/24-057,Thái Nguyễn Minh Quyết,7/16/2024,PR24/07-054,HAT-PPKC-H030GP,Hạt nhựa PP kéo sợi - H030GP,Kg,198000,Kg,198000,,USD,0.984,0,194832,NCC020025,LRD Chemical Trading Limited
 PO07/24-058,Nguyễn Thị Đào,7/16/2024,PR24/07-055,0700100030000000,nhớt 10,LIT,4000,LIT,4000,,VND,30909.09,12363636,123636360,NCC010046,CÔNG TY TNHH TM HUY BÌNH PHÁT
 PO07/24-059,Nguyễn Thị Đào,7/16/2024,PR24/07-057,9045002450000000,"Ống nhựa PVC đường kính trong 16mm, dày 2mm, trắng trong. TL: 100g/m",M,160,KG,16,,VND,6134,0,981440,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO07/24-059,Nguyễn Thị Đào,7/16/2024,PR24/07-057,10ZIP-W25L35-PE-01,"Túi tài liệu Ziplock A4, W x L = 25cm x 35cm, TL: 16.8g/cái.",Cái,4464.3,KG,75.0002,,VND,722.5,0,3225457,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
@@ -221,7 +210,6 @@ PO07/24-064,Nguyễn Thị Đào,7/17/2024,PR24/07-063,0902210640000000,MCCB - 3
 PO07/24-064,Nguyễn Thị Đào,7/17/2024,PR24/07-063,0903100320000000,Thanh trung tính N+E. 12-18 lỗ.,CAY,2,CAY,2,,VND,47000,0,94000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO07/24-064,Nguyễn Thị Đào,7/17/2024,PR24/07-063,0905400230000000,ĐẦU CỐT 38-8,CON,16,CON,16,,VND,5500,0,88000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO07/24-064,Nguyễn Thị Đào,7/17/2024,PR24/07-063,0906900370000000,Chụp mũ màu V38 ( đen - đỏ - vàng - xanh),CAI,16,CAI,16,,VND,1000,0,16000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO07/24-079,Nguyễn Thị Đào,7/22/2024,PR24/07-077,MDM-FLDO192GT,Đỏ 192C FL gián tiếp,KG,50,KG,50,,VND,74000,370000,3700000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-065,Thái Nguyễn Minh Quyết,7/17/2024,PR24/07-062,0907101180000000,Motor Chính Máy dệt AXL6 (Motor 3.0Kw - 4P . B14 MTD 100L MANIN DRIVE - T.B.D ) Mã : 6011.,CAI,1,CAI,1,,USD,259,0,259,NCC020009,CÔNG TY LOHIA CORP LIMITED
 PO07/24-065,Thái Nguyễn Minh Quyết,7/17/2024,PR24/07-062,0907101190000000,Motor lô nước Máy dệt AXL6 (Motor Torque Adjustment System - IO Magnets - 0.18KW  ) Mã : 3626.,CAI,2,CAI,2,,USD,302,0,604,NCC020009,CÔNG TY LOHIA CORP LIMITED
 PO07/24-065,Thái Nguyễn Minh Quyết,7/17/2024,PR24/07-062,0907101200000000,Motor Chính Máy dệt LSL6 (Motor 3.0KW . 4P.B5 Frame 100L MAIN Drive - Mounting - Np - A.C   ) Mã : 1088.,CAI,1,CAI,1,,USD,225,0,225,NCC020009,CÔNG TY LOHIA CORP LIMITED
@@ -278,6 +266,7 @@ PO07/24-079,Nguyễn Thị Đào,7/22/2024,PR24/07-077,MDM-FL39,Xanh Dương 39 
 PO07/24-079,Nguyễn Thị Đào,7/22/2024,PR24/07-077,MDM-FL61GT,Trắng Đục 61 FL gián tiếp,KG,25,KG,25,,VND,71000,177500,1775000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-079,Nguyễn Thị Đào,7/22/2024,PR24/07-077,MDM-FL92,Đen 92 FL,KG,50,KG,50,,VND,69000,345000,3450000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-079,Nguyễn Thị Đào,7/22/2024,PR24/07-077,MDM-FL92GT,Đen 92 FL gián tiếp,KG,50,KG,50,,VND,69000,345000,3450000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO07/24-079,Nguyễn Thị Đào,7/22/2024,PR24/07-077,MDM-FLDO192GT,Đỏ 192C FL gián tiếp,KG,50,KG,50,,VND,74000,370000,3700000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-079,Nguyễn Thị Đào,7/22/2024,PR24/07-077,MDM-FLXL3415C,Xanh Lá 3415C FL,KG,100,KG,100,,VND,76000,760000,7600000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-079,Nguyễn Thị Đào,7/22/2024,PR24/07-077,MDM-FLXL3415CGT,Xanh Lá 3415C FL gián tiếp,KG,50,KG,50,,VND,76000,380000,3800000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-080,Nguyễn Thị Đào,7/22/2024,PR24/07-081,0901100420000000,BẠC ĐẠN 6206,CAI,50,CAI,50,,VND,62000,248000,3100000,NCC010013,CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ MAI LÊ
@@ -366,7 +355,6 @@ PO07/24-100,Nguyễn Thị Đào,7/30/2024,PR24/07-091,MDM-FL92,Đen 92 FL,KG,50
 PO07/24-100,Nguyễn Thị Đào,7/30/2024,PR24/07-091,MDM-FLXL3415C,Xanh Lá 3415C FL,KG,100,KG,100,,VND,76000,760000,7600000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-100,Nguyễn Thị Đào,7/30/2024,PR24/07-094,MDM-FL16GT,Đỏ Sen 16 FL gián tiếp,KG,25,KG,25,,VND,74000,185000,1850000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO07/24-100,Nguyễn Thị Đào,7/30/2024,PR24/07-094,MDM-FLDO192GT,Đỏ 192C FL gián tiếp,KG,50,KG,50,,VND,74000,370000,3700000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
-PO07/24-101,Nguyễn Thị Đào,7/30/2024,PR24/07-092,0906700380000000,Lò xo càng bù thoi máy dệt. ( theo mẫu),CAI,500,CAI,500,,VND,1,0,500,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO07/24-101,Nguyễn Thị Đào,7/30/2024,PR24/07-092,0923700060000000,Keo 502 THUẬN PHONG - size S - Hình con voi -,LO,20,LO,20,,VND,4000,0,80000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO07/24-101,Nguyễn Thị Đào,7/30/2024,PR24/07-092,0906200980000000,Ống hơi PU phi 10mm x lỗ 6mm màu trắng TGCN-23680 Lion.,Mét,150,Mét,150,,VND,6200,0,930000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO07/24-101,Nguyễn Thị Đào,7/30/2024,PR24/07-095,0908300410000000,Ổn Áp Robot Reno 5KVA (90-250v) - Reno 818,CAI,2,CAI,2,,VND,3101852,496296,6203704,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
@@ -415,13 +403,13 @@ PO08/24-002,Nguyễn Thị Đào,8/2/2024,PR24/08-002,0901100480000000,Bạc đ�
 PO08/24-002,Nguyễn Thị Đào,8/2/2024,PR24/08-002,0901100560000000,BẠC ĐẠN SKF 61804,CAI,100,CAI,100,,VND,88000,704000,8800000,NCC010013,CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ MAI LÊ
 PO08/24-002,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0901100540000000,BẠC ĐẠN SKF 6308- 2Z/C3,CAI,20,CAI,20,,VND,127000,203200,2540000,NCC010013,CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ MAI LÊ
 PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-002,0906300090000000,Phe trong lỗ phi 16mm.,Cái,1000,Cái,1000,,VND,1,0,1000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0902209540000000,Ổ cắm đế nổi loại 3 ổ SINO,CAI,20,CAI,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0902209357000000,Phích cắm điện đực chịu nhiệt PC 2A-02 điện quang,CAI,20,CAI,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0902209540000000,Ổ cắm đế nổi loại 3 ổ SINO,CAI,20,CAI,20,,VND,58000,0,1160000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0902209357000000,Phích cắm điện đực chịu nhiệt PC 2A-02 điện quang,CAI,20,CAI,20,,VND,12000,0,240000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0905700320000000,Phớt dầu SC 40x52x7mm,CAI,8,CAI,8,,VND,25000,0,200000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0905401120000000,Đầu cốt nối thẳng nichifu B1.25,CAI,50,CAI,50,,VND,1,0,50,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0905401130000000,Đầu cốt nối thẳng nichifu B2.,CAI,50,CAI,50,,VND,1,0,50,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0905401140000000,Đầu cốt nối thẳng nichifu B5.5.,CAI,50,CAI,50,,VND,1,0,50,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0905401150000000,Đầu cốt nối thẳng nichifu B8.,CAI,50,CAI,50,,VND,1,0,50,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0905401120000000,Đầu cốt nối thẳng nichifu B1.25,CAI,50,CAI,50,,VND,3000,0,150000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0905401130000000,Đầu cốt nối thẳng nichifu B2.,CAI,50,CAI,50,,VND,4000,0,200000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0905401140000000,Đầu cốt nối thẳng nichifu B5.5.,CAI,50,CAI,50,,VND,5000,0,250000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0905401150000000,Đầu cốt nối thẳng nichifu B8.,CAI,50,CAI,50,,VND,6000,0,300000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0902210680000000,Biến tần YAKAWA : CIMR - AT4A0007FAA.,CAI,1,CAI,1,,VND,8500000,850000,8500000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,0911500040000000,Kích chân thủy lực 10 T.,CAI,1,CAI,1,,VND,1,0,1,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-003,Nguyễn Thị Đào,8/2/2024,PR24/08-003,090570228000000,Phớt VA - 40.,CAI,8,CAI,8,,VND,45000,0,360000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
@@ -522,7 +510,7 @@ PO08/24-026,Nguyễn Thị Đào,8/9/2024,PR24/08-034,0913000050000000,Silicol �
 PO08/24-027,Nguyễn Thị Đào,8/9/2024,PR24/08-032,VPP-009,ĐẤT SẠCH,Bao,50,Bao,50,,VND,35000,0,1750000,NV041,Võ Công Vũ
 PO08/24-027,Nguyễn Thị Đào,8/9/2024,PR24/08-033,0918200050000000,Gạch lát nền 50x50 cm. ( Mẫu theo yêu cầu),M2,45,M2,45,,VND,112000,0,5040000,NV041,Võ Công Vũ
 PO08/24-028,Thái Nguyễn Minh Quyết,8/9/2024,PR24/08-004,0923700430000000,Bulong lục giác đầu trụ ( Lip Adjusting Srew ) M10xP1.0x L=99. Mã: LS/TAPE - 2532X1.,CAI,100,CAI,100,,VND,1,0,100,NCC020024,"Changzhou United Win Pack Co., Ltd"
-PO08/24-028,Thái Nguyễn Minh Quyết,8/9/2024,PR24/08-029,0909300022000000,Cốt ống lăn đai RX6.1 mã: Z4R - 00011C,CAI,1700,CAI,1700,,VND,1,0,1700,NCC020024,"Changzhou United Win Pack Co., Ltd"
+PO08/24-028,Thái Nguyễn Minh Quyết,8/9/2024,PR24/08-029,0909300022000000,Ống lăn đai RX6.1 mã: Z4U - 00010B,CAI,1700,CAI,1700,,VND,1,0,1700,NCC020024,"Changzhou United Win Pack Co., Ltd"
 PO08/24-029,Nguyễn Thị Đào,8/12/2024,PR24/08-035,5300101760000000,Bìa còng F7 khổ A5,CAI,2,CAI,2,,VND,29000,4640,58000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
 PO08/24-029,Nguyễn Thị Đào,8/12/2024,PR24/08-035,5300100360000000,Bút lông dầu đỏ,CAY,10,CAY,10,,VND,8000,6400,80000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
 PO08/24-029,Nguyễn Thị Đào,8/12/2024,PR24/08-035,5300100460000000,Giấy A472,Gram,30,Gram,30,,VND,50000,120000,1500000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
@@ -555,9 +543,9 @@ PO08/24-031,Nguyễn Thị Đào,8/12/2024,PR24/08-038,0909500200000000,Lưới 
 PO08/24-031,Nguyễn Thị Đào,8/12/2024,PR24/08-038,0905500870000000,Sắt hộp tráng kẽm 20x20mm,CAY,80,CAY,80,,VND,95000,0,7600000,NV041,Võ Công Vũ
 PO08/24-031,Nguyễn Thị Đào,8/12/2024,PR24/08-038,0905500560000000,Sắt la 18x1.4mmx3000mm,CAY,100,CAY,100,,VND,25000,0,2500000,NV041,Võ Công Vũ
 PO08/24-032,Nguyễn Thị Đào,8/12/2024,PR24/08-036,0905600040000000,SÊN ĐƠN 40,CAI,10,CAI,10,,VND,310000,0,3100000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-032,Nguyễn Thị Đào,8/12/2024,PR24/08-036,0916100070000000,Nước sơn vàng vẽ layout,Hộp,2,Hộp,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-032,Nguyễn Thị Đào,8/12/2024,PR24/08-036,0916100070000000,Nước sơn vàng vẽ layout,Hộp,2,Hộp,2,,VND,385000,0,770000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-032,Nguyễn Thị Đào,8/12/2024,PR24/08-036,0907300020000000,Nỉ lông cừu dày 1000 x 1000mm x 10mm ( theo mẫu),TAM,4,TAM,4,,VND,1,0,4,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-032,Nguyễn Thị Đào,8/12/2024,PR24/08-036,0906500120000000,Nút Nhựa Chong Chóng,Cái,10000,Cái,10000,,VND,1,0,10000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-032,Nguyễn Thị Đào,8/12/2024,PR24/08-036,0906500120000000,Nút Nhựa Chong Chóng,Cái,10000,Cái,10000,,VND,700,0,7000000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-032,Nguyễn Thị Đào,8/12/2024,PR24/08-037,0908200070000000,Xe nâng tay 3 tấn mitsubishi BF30,CAI,1,CAI,1,,VND,5000000,0,5000000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-033,Nguyễn Thị Đào,8/13/2024,PR24/08-040,MDM-DMC,Dung môi Chỉnh,KG,48,KG,48,,VND,39000,187200,1872000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
 PO08/24-033,Nguyễn Thị Đào,8/13/2024,PR24/08-040,MDM-FLREFBLUEGT,Xanh Dương Reflex Blue C gián tiếp,KG,250,KG,250,,VND,80000,2000000,20000000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
@@ -568,19 +556,19 @@ PO08/24-035,Nguyễn Thị Đào,8/13/2024,PR24/08-042,5200110060020000,"Pallet 
 PO08/24-036,Nguyễn Thị Đào,8/13/2024,PR24/08-041,0905700200000000,PHỚT 25x40,CAI,20,CAI,20,,VND,37000,0,740000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-036,Nguyễn Thị Đào,8/13/2024,PR24/08-041,0926400010000000,ĐÁ CẮT 100,Cái,100,Cái,100,,VND,7000,0,700000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-036,Nguyễn Thị Đào,8/13/2024,PR24/08-041,0926400040000000,ĐÁ MÀI 100,Cái,100,Cái,100,,VND,12000,0,1200000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-036,Nguyễn Thị Đào,8/13/2024,PR24/08-041,0927600103000000,Bánh răng vỏ thau Z=100 - phi 104 x 16mm -cốt phi 45 x 112mm ( gia công theo bản vẻ ),CAI,10,CAI,10,,VND,1,0,10,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-036,Nguyễn Thị Đào,8/13/2024,PR24/08-041,0927600103000000,Bánh răng vỏ thau Z=100 - phi 104 x 16mm -cốt phi 45 x 112mm ( gia công theo bản vẻ ),CAI,10,CAI,10,,VND,1900000,0,19000000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-036,Nguyễn Thị Đào,8/13/2024,PR24/08-043,0903100530000000,Thanh Sắt 40x80x800mm ( GC theo bản vẽ),CAI,28,CAI,28,,VND,1480000,0,41440000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-036,Nguyễn Thị Đào,8/13/2024,PR24/08-046,0902209070000000,Biến tần Mitsubishi FR-D720S-025-EC.,CAI,2,CAI,2,,VND,3000000,0,6000000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902208890000000,MCB - 2P-6A Schneider,CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902209540000000,Ổ cắm đế nổi loại 3 ổ SINO,CAI,10,CAI,10,,VND,1,0,10,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902209358000000,Phích cắm cái ĐQEPF2PN điện quang,CAI,10,CAI,10,,VND,1,0,10,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902209357000000,Phích cắm điện đực chịu nhiệt PC 2A-02 điện quang,CAI,10,CAI,10,,VND,1,0,10,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0906201030000000,Ống luồn dây điện tròn cứng chống cháy SINO D20 ( SP9020MS),Cây,20,Cây,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0906201050000000,Ống luồn dây điện tròn cứng chống cháy D32 (dài 2.92m/cây),M,20,M,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902210710000000,Đèn pha Led 50W DUHAL.,CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902210720000000,Dây điện Cadivi VCm 1x3mm2- màu đỏ.,M,100,M,100,,VND,1,0,100,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902210730000000,Dây điện Cadivi VCm 1x3mm2- màu đen.,M,100,M,100,,VND,1,0,100,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-046,0902300160000000,Đầu dò nhiệt độ loại vặn M6.3 - dây dài 1 mét,Sợi,10,Sợi,10,,VND,1,0,10,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902208890000000,MCB - 2P-6A Schneider,CAI,2,CAI,2,,VND,335000,0,670000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902209540000000,Ổ cắm đế nổi loại 3 ổ SINO,CAI,10,CAI,10,,VND,58000,0,580000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902209358000000,Phích cắm cái ĐQEPF2PN điện quang,CAI,10,CAI,10,,VND,15000,0,150000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902209357000000,Phích cắm điện đực chịu nhiệt PC 2A-02 điện quang,CAI,10,CAI,10,,VND,12000,0,120000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0906201030000000,Ống luồn dây điện tròn cứng chống cháy SINO D20 ( SP9020MS),Cây,20,Cây,20,,VND,22000,0,440000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0906201050000000,Ống luồn dây điện tròn cứng chống cháy D32 (dài 2.92m/cây),M,20,M,20,,VND,20000,0,400000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902210710000000,Đèn pha Led 50W DUHAL.,CAI,2,CAI,2,,VND,680000,0,1360000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902210720000000,Dây điện Cadivi VCm 1x3mm2- màu đỏ.,M,100,M,100,,VND,10500,0,1050000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-044,0902210730000000,Dây điện Cadivi VCm 1x3mm2- màu đen.,M,100,M,100,,VND,10500,0,1050000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-046,0902300160000000,Đầu dò nhiệt độ loại vặn M6.3 - dây dài 1 mét,Sợi,10,Sợi,10,,VND,90000,0,900000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-046,0902210740000000,Biến trở vô cấp WDD35D4 - 5k ôm.,CAI,5,CAI,5,,VND,1,0,5,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-037,Nguyễn Thị Đào,8/13/2024,PR24/08-046,0902203340000000,Biến trở 3 tầng 10K - 2W,CAI,5,CAI,5,,VND,1,0,5,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-038,Nguyễn Thị Đào,8/13/2024,PR24/08-039,MDM-FL23,Vàng Chanh 23 FL,KG,25,KG,25,,VND,68000,170000,1700000,NCC010379,CÔNG TY TNHH CÔNG NGHIỆP MISO
@@ -594,7 +582,7 @@ PO08/24-041,Nguyễn Dũng Trung,8/14/2024,,THATRUNP053100100038DE00,"Vải manh
 PO08/24-042,Nguyễn Thị Đào,8/14/2024,PR24/08-047,0907800060000000,Ruột cao su trục hơi phi ngoài 42 x phi trong 32 mm.,M,2,M,2,,VND,850000,0,1700000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-042,Nguyễn Thị Đào,8/14/2024,PR24/08-047,0906202440000000,Ống dầu thủy lực 2 lớp bấm 2 đầu côn lõm phi 15 - dài 2000. ( Theo mẫu),ONG,2,ONG,2,,VND,480000,0,960000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-042,Nguyễn Thị Đào,8/14/2024,PR24/08-047,0907900180000000,Chốt bung láp hơi 8x98x10mm (theo mẫu),CAI,60,CAI,60,,VND,80000,0,4800000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-042,Nguyễn Thị Đào,8/14/2024,PR24/08-048,0901300870000000,BU LONG LỤC GIÁC ÂM M6x10,CAI,100,CAI,100,,VND,1,0,100,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-042,Nguyễn Thị Đào,8/14/2024,PR24/08-048,0901300870000000,BU LONG LỤC GIÁC ÂM M6x10,CAI,100,CAI,100,,VND,280,0,28000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-042,Nguyễn Thị Đào,8/14/2024,PR24/08-048,0901400270000000,Cây nhựa PU phi 13x1000mm,CAY,1,CAY,1,,VND,700000,0,700000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-042,Nguyễn Thị Đào,8/14/2024,PR24/08-048,0926400230000000,Giấy nhám vải AA-100,M,20,M,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-042,Nguyễn Thị Đào,8/14/2024,PR24/08-048,0923700030000000,Keo con chó Dog X66- 3kg,HOP,1,HOP,1,,VND,1,0,1,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
@@ -623,7 +611,7 @@ PO08/24-049,Nguyễn Thị Đào,8/16/2024,PR24/08-057,MDM-FL92GT,Đen 92 FL gi�
 PO08/24-050,Nguyễn Thị Đào,8/16/2024,PR24/08-056,0911200257000000,Bảng Mica 40x80cm ( in chữ theo file đính kèm),CAI,13,CAI,13,,VND,380000,0,4940000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-051,Nguyễn Thị Đào,8/16/2024,PR24/08-058,0901100380000000,BẠC ĐẠN SKF 6202 - 2Z/C3,CAI,50,CAI,50,,VND,32000,128000,1600000,NCC010013,CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ MAI LÊ
 PO08/24-059,Nguyễn Thị Đào,8/20/2024,PR24/08-065,040010011000000,"Chỉ may PP 1200D, xanh dương. Cơ lý > or = 4.8KgF. Độ dãn > or =20%, Nhúng hồ 20 điểm/1 mét (5cm/điểm), kháng UV 1-2%",KG,630,KG,630,,VND,46000,2898000,28980000,NCC010209,CTY TNHH SẢN XUẤT – THƯƠNG MẠI ĐỨC NGỌC
-PO08/24-060,Nguyễn Thị Đào,8/20/2024,PR24/08-065,040010015000000,"Chỉ may PP 900D, màu trắng không tẩy.(Cơ lý > or = 3.6Kgf. Độ dãn > or = 20%, Nhúng hồ 20 điểm/1 mét (5cm/điểm), màu trắng không tẩy), kháng UV 1-2%",KG,1700,KG,1700,,VND,37000,5032000,62900000,NCC010357,CÔNG TY TNHH PHƯƠNG QUÂN VINA
+PO08/24-060,Nguyễn Thị Đào,8/20/2024,PR24/08-065,040010015000000,"Chỉ may PP 900D, màu trắng không tẩy.(Cơ lý > or = 3.6Kgf. Độ dãn > or = 20%, Nhúng hồ 20 điểm/1 mét (5cm/điểm), màu trắng không tẩy), kháng UV 1-2%",KG,2010,KG,2010,,VND,37000,5949600,74370000,NCC010357,CÔNG TY TNHH PHƯƠNG QUÂN VINA
 PO08/24-061,Nguyễn Thị Đào,8/20/2024,PR24/08-065,10DAI-PPDE0-01-0530,"Dây đai PP, Kích thước 5.0cm;  TL: 30g/m, màu đen",M,56600,KG,1698,,VND,1275,5773200,72165000,KH010005,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI KIÊN THẠNH
 PO08/24-062,Nguyễn Thị Đào,8/20/2024,PR24/08-065,10TEM-TU001-06-0001,Tem bao Jumbo UNP TU001-06-0001. Kích thước W4.5xL7.0 (inch),Cái,19850,KG,19.85,,VND,320,508160,6352000,NCC010186,CÔNG TY TNHH IN THIẾT KẾ QUẢNG CÁO MINH HOÀNG
 PO08/24-063,Nguyễn Thị Đào,8/20/2024,PR24/08-065,HAT-TALC-THOI-IFC7,Hạt taical thổi HDPE IF-PE114C7 (Đại Á),KG,5000,KG,5000,,VND,8150,0,40750000,NCC010202,CHI NHÁNH TẠI THÀNH PHỐ HỒ CHÍ MINH CÔNG TY CỔ PHẦN CÔNG NGHIỆP ĐẠI Á
@@ -653,12 +641,12 @@ PO08/24-074,Nguyễn Thị Đào,8/22/2024,PR24/08-075,0904500150000000,sơn x�
 PO08/24-074,Nguyễn Thị Đào,8/22/2024,PR24/08-075,0905500480000000,Sắt kẽm H30x60 (1.4 ly),CAY,50,CAY,50,,VND,195000,0,9750000,NV041,Võ Công Vũ
 PO08/24-075,Nguyễn Thị Đào,8/24/2024,PR24/08-088,HAT-TACKS-JB,Hạt Taical kéo sợi Jumbo. [Hanotech: HF006R] [Châu Âu: PP1002BRT],KG,10000,KG,10000,,VND,8200,8200000,82000000,NCC010188,CÔNG TY TNHH HANOTECH PLAS
 PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-078,090570229000000,Vòng sin phi 20x2mm.,CAI,20,CAI,20,,VND,2000,0,40000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902207930000000,Công tắc hành trình HY-L807,CAI,20,CAI,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902209343000000,Đuôi đèn công nghiệp E27.,CAI,20,CAI,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902202890000000,Bóng đèn led Philips TForce 40W - E27.,CAI,20,CAI,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902209540000000,Ổ cắm đế nổi loại 3 ổ SINO,CAI,20,CAI,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902202860000000,Bóng đèn led tube 1.2m 18w DE Philips (điện 2 đầu),CAI,20,CAI,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0905600530000000,Sensor YX - 1812-24NA Proximity Switch,CAI,1,CAI,1,,VND,1,0,1,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902207930000000,Công tắc hành trình HY-L807,CAI,20,CAI,20,,VND,158000,0,3160000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902209343000000,Đuôi đèn công nghiệp E27.,CAI,20,CAI,20,,VND,45000,0,900000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902202890000000,Bóng đèn led Philips TForce 40W - E27.,CAI,20,CAI,20,,VND,145000,0,2900000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902209540000000,Ổ cắm đế nổi loại 3 ổ SINO,CAI,20,CAI,20,,VND,58000,0,1160000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902202860000000,Bóng đèn led tube 1.2m 18w DE Philips (điện 2 đầu),CAI,20,CAI,20,,VND,65000,0,1300000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0905600530000000,Sensor YX - 1812-24NA Proximity Switch,CAI,1,CAI,1,,VND,5820000,582000,5820000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0911200010000000,Bảng Táp lô nhựa 200x250mm,CAI,10,CAI,10,,VND,1,0,10,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,0902210760000000,Biến tần Delta VFD022E21C 2.2kw - 1P-220V.,CAI,1,CAI,1,,VND,1,0,1,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-081,5200111370000000,Chổi than motor kích thước 9x15x25mm,CAI,4,CAI,4,,VND,1,0,4,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
@@ -670,27 +658,27 @@ PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-086,5300101670000000,Nước 
 PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-087,0901400370000000,Cây nhựa PA phi 300 x 1000mm,CAI,1,CAI,1,,VND,1,0,1,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-087,0905502130000000,Sắt đăc trắng trơn phi 25x1500mm.,CAY,8,CAY,8,,VND,500000,0,4000000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-087,0905502140000000,Sắt ống phi trong 25mm phi ngoài 35mm.- dài 1000mm,CAY,2,CAY,2,,VND,180000,0,360000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-081,Thái Nguyễn Minh Quyết,8/26/2024,PR24/08-066,0918500140000000,GỐI ĐỠ ĐẦU DÙ TRƯỚC RX6.1 và RX8.0 Z3A-05717C,Cái,100,Cái,100,,VND,1,0,100,NCC020024,"Changzhou United Win Pack Co., Ltd"
 PO08/24-076,Nguyễn Thị Đào,8/24/2024,PR24/08-089,0902205180000000,Đèn pin đa năng 2 trong 1 DOMODA KM-2689 H2pro,CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-077,Nguyễn Thị Đào,8/24/2024,PR24/08-076,0903600260000000,Tôn phẳng Việt Nhật dày 5 zem.,TAM,34,TAM,34,,VND,170912,0,5811008,NV041,Võ Công Vũ
 PO08/24-077,Nguyễn Thị Đào,8/24/2024,PR24/08-079,0900600140000000,Bản lề cối phi 20,BO,20,BO,20,,VND,15000,0,300000,NV041,Võ Công Vũ
 PO08/24-077,Nguyễn Thị Đào,8/24/2024,PR24/08-079,0907900090000000,CHỐT CỬA ĐỨNG,Cái,10,Cái,10,,VND,25000,0,250000,NV041,Võ Công Vũ
 PO08/24-077,Nguyễn Thị Đào,8/24/2024,PR24/08-079,0907900100000000,CHỐT CỬA NGANG,CAI,4,CAI,4,,VND,30000,0,120000,NV041,Võ Công Vũ
 PO08/24-077,Nguyễn Thị Đào,8/24/2024,PR24/08-079,0907400120000000,Ổ Khoá Việt Tiệp 1466/66M Loại Lớn 89 x 62 Ống Phi 12mm (Khoá Chìa),CAI,2,CAI,2,,VND,1,0,2,NV041,Võ Công Vũ
-PO08/24-077,Nguyễn Thị Đào,8/24/2024,PR24/08-090,0920600580000000,Dây dù Thái Lan phi 8mm.,M,115,M,115,,VND,1,0,115,NV041,Võ Công Vũ
-PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-078,091960099000000,"Bánh răng D=84mm. Z= 40, M= 2. ( Gia công theo bản vẽ)",CAI,6,CAI,6,,VND,1,0,6,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-078,091960100000000,"Bánh răng D=44mm. Z= 20, M= 2. ( Gia công theo bản vẽ)",CAI,6,CAI,6,,VND,1,0,6,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-085,0900500670000000,Bát INOX 70x100mm ( GC theo bản vẽ),CAI,40,CAI,40,,VND,1,0,40,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-087,0907101210000000,Bát sắt Chử U 100x100x360mm - dày 10mm ( GC theo bản vẽ),CAI,8,CAI,8,,VND,1,0,8,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-087,0907101220000000,Bát sắt Chử U 40x60x420mm - dày 10mm ( GC theo bản vẽ),CAI,4,CAI,4,,VND,1,0,4,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-087,0907101230000000,Bát sắt Chử U 40x40x400mm - dày 10mm ( GC theo bản vẽ),CAI,4,CAI,4,,VND,1,0,4,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-077,Nguyễn Thị Đào,8/24/2024,PR24/08-090,0920600580000000,Dây dù Thái Lan phi 8mm.,M,115,M,115,,VND,8000,0,920000,NV041,Võ Công Vũ
+PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-078,091960099000000,"Bánh răng D=84mm. Z= 40, M= 2. ( Gia công theo bản vẽ)",CAI,6,CAI,6,,VND,585000,0,3510000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-078,091960100000000,"Bánh răng D=44mm. Z= 20, M= 2. ( Gia công theo bản vẽ)",CAI,6,CAI,6,,VND,415000,0,2490000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-085,0900500670000000,Bát INOX 70x100mm ( GC theo bản vẽ),CAI,40,CAI,40,,VND,215000,0,8600000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-087,0907101210000000,Bát sắt Chử U 100x100x360mm - dày 10mm ( GC theo bản vẽ),CAI,8,CAI,8,,VND,245000,0,1960000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-087,0907101220000000,Bát sắt Chử U 40x60x420mm - dày 10mm ( GC theo bản vẽ),CAI,4,CAI,4,,VND,155000,0,620000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-078,Nguyễn Thị Đào,8/24/2024,PR24/08-087,0907101230000000,Bát sắt Chử U 40x40x400mm - dày 10mm ( GC theo bản vẽ),CAI,4,CAI,4,,VND,135000,0,540000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-079,Nguyễn Thị Đào,8/24/2024,PR24/08-078,0901100380000000,BẠC ĐẠN SKF 6202 - 2Z/C3,CAI,10,CAI,10,,VND,32000,25600,320000,NCC010013,CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ MAI LÊ
 PO08/24-079,Nguyễn Thị Đào,8/24/2024,PR24/08-078,0927600104000000,Bạc đạn SKF 6902 -2Z.,CAI,10,CAI,10,,VND,107000,85600,1070000,NCC010013,CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ MAI LÊ
-PO08/24-080,Nguyễn Thị Đào,8/24/2024,PR24/08-083,091960101000000,Bàn hàn máy rút dây khí nén 19x25mm. (Theo mẫu),CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-080,Nguyễn Thị Đào,8/24/2024,PR24/08-083,091960102000000,Bàn siết máy rút dây khí nén 17x19mm. (Theo mẫu),CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-080,Nguyễn Thị Đào,8/24/2024,PR24/08-083,091960103000000,Lô cuốn máy rút dây khí nén phi 38x19mm. (Theo mẫu),CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-080,Nguyễn Thị Đào,8/24/2024,PR24/08-083,091960101000000,Bàn hàn máy rút dây khí nén 19x25mm. (Theo mẫu),CAI,2,CAI,2,,VND,1400000,224000,2800000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-080,Nguyễn Thị Đào,8/24/2024,PR24/08-083,091960102000000,Bàn siết máy rút dây khí nén 17x19mm. (Theo mẫu),CAI,2,CAI,2,,VND,930000,148800,1860000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-080,Nguyễn Thị Đào,8/24/2024,PR24/08-083,091960103000000,Lô cuốn máy rút dây khí nén phi 38x19mm. (Theo mẫu),CAI,2,CAI,2,,VND,890000,142400,1780000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-081,Thái Nguyễn Minh Quyết,8/26/2024,PR24/08-066,0905200010000000,ĐAI DƯỚI 10 LỖ LSL6 (470X98X10) LSL6074820,Cái,200,Cái,200,,VND,1,0,200,NCC020024,"Changzhou United Win Pack Co., Ltd"
 PO08/24-081,Thái Nguyễn Minh Quyết,8/26/2024,PR24/08-066,0905200040000000,ĐAI TRÊN 10 LỖ LSL6 (230X98X10) LSL6074807,Cái,150,Cái,150,,VND,1,0,150,NCC020024,"Changzhou United Win Pack Co., Ltd"
-PO08/24-081,Thái Nguyễn Minh Quyết,8/26/2024,PR24/08-066,0918500140000000,GỐI ĐỠ ĐẦU DÙ TRƯỚC RX6.1 và RX8.0 Z3A-05717C,Cái,100,Cái,100,,VND,1,0,100,NCC020024,"Changzhou United Win Pack Co., Ltd"
 PO08/24-081,Thái Nguyễn Minh Quyết,8/26/2024,PR24/08-066,0923800019000000,Bánh xe bộ đẩy RX6.1 mã: Z4C - 05205,CAI,200,CAI,200,,VND,1,0,200,NCC020024,"Changzhou United Win Pack Co., Ltd"
 PO08/24-081,Thái Nguyễn Minh Quyết,8/26/2024,PR24/08-080,0905200140000000,"Đai trên 10 lỗ, HENGLY (Grommet band) Mã: 6S-01-53",Cái,150,Cái,150,,VND,1,0,150,NCC020024,"Changzhou United Win Pack Co., Ltd"
 PO08/24-081,Thái Nguyễn Minh Quyết,8/26/2024,PR24/08-080,0905200150000000,"Đai dưới 10 lỗ, HENGLY (Grommet band) Mã: 6S-01-54",Cái,150,Cái,150,,VND,1,0,150,NCC020024,"Changzhou United Win Pack Co., Ltd"
@@ -724,26 +712,26 @@ PO08/24-085,Nguyễn Thị Đào,8/26/2024,PR24/08-094,0700100410000000,Dầu Ki
 PO08/24-085,Nguyễn Thị Đào,8/26/2024,PR24/08-094,0922900100000000,Lọc dầu - King Power mã 2101707502,CAI,1,CAI,1,,VND,1910000,152800,1910000,NCC010210,CÔNG TY TNHH KỸ THUẬT CÔNG NGHỆ MINH CHÂU
 PO08/24-085,Nguyễn Thị Đào,8/26/2024,PR24/08-094,0908500560000000,Lọc khí King Power mã 2101607501,CAI,1,CAI,1,,VND,1650000,132000,1650000,NCC010210,CÔNG TY TNHH KỸ THUẬT CÔNG NGHỆ MINH CHÂU
 PO08/24-085,Nguyễn Thị Đào,8/26/2024,PR24/08-094,0912600040000000,Tách dầu King Power mã 210171003,CAI,1,CAI,1,,VND,6990000,559200,6990000,NCC010210,CÔNG TY TNHH KỸ THUẬT CÔNG NGHỆ MINH CHÂU
-PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0901300160000000,Bulong thường M8X50mm,CAI,100,CAI,100,,VND,1,0,100,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0901300390000000,Bulong thường M6X20mm,CAI,200,CAI,200,,VND,1,0,200,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0901300160000000,Bulong thường M8X50mm,CAI,100,CAI,100,,VND,1000,0,100000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0901300390000000,Bulong thường M6X20mm,CAI,200,CAI,200,,VND,400,0,80000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0907300040000000,Nỉ chén trên máy dệt CS.,CAI,900,CAI,900,,VND,1,0,900,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0906300260000000,Phe gài nỉ chén trên máy dệt CS.,CAI,900,CAI,900,,VND,1,0,900,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,091960104000000,Bulong dao động CS M12x52mm.,CON,50,CON,50,,VND,1,0,50,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0904600430000000,Tán keo M8,CON,50,CON,50,,VND,1,0,50,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0904600440000000,Tán keo M12,CAI,50,CAI,50,,VND,1,0,50,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,091960104000000,Bulong dao động CS M12x52mm.,CON,50,CON,50,,VND,3000,0,150000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0904600430000000,Tán keo M8,CON,50,CON,50,,VND,800,0,40000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-092,0904600440000000,Tán keo M12,CAI,50,CAI,50,,VND,1200,0,60000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-093,0900900020000000,Béc cắt gió đá - số 2,CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-086,Nguyễn Thị Đào,8/26/2024,PR24/08-093,0902700880000000,Đồng hồ so cơ khí Mitutoyo 2109A-10 (1mm/ 0.001mm),CAI,1,CAI,1,,VND,1030000,82400,1030000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-087,Nguyễn Thị Đào,8/27/2024,PR24/08-098,0908700080000000,bình oxy,Bình,1,Bình,1,,VND,150000,0,150000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-088,Nguyễn Thị Đào,8/29/2024,PR24/08-099,BAO-048075G13HDPE.DW,"Túi HDPE, K48.0x75.0LL(+1.0/-0), TL: 13.0g/cái(+/-1.0). [Ghi chú: cắt nguội dài 76.5cm(+/-1), hàn đáy 2 đường].",CAI,184000,KG,2392,,VND,442,6506240,81328000,NCC010020,CÔNG TY TNHH AMIBA VIỆT NAM
 PO08/24-088,Nguyễn Thị Đào,8/29/2024,PR24/08-099,BAO-048075G19LDPE.DW,"Túi LDPE, K48.0x75.0LL(+1.0/-0), TL: 19.0g/cái(+/-1.0).",CAI,160000,KG,3040,,VND,646,8268800,103360000,NCC010020,CÔNG TY TNHH AMIBA VIỆT NAM
 PO08/24-089,Nguyễn Thị Đào,8/29/2024,PR24/08-101,0922700082000000,Đá cắt 125mm,LUOI,50,LUOI,50,,VND,10000,0,500000,NV041,Võ Công Vũ
-PO08/24-089,Nguyễn Thị Đào,8/29/2024,PR24/08-101,0904500090000000,Sơn dầu màu xám,Kg,10,Kg,10,,VND,1,0,10,NV041,Võ Công Vũ
+PO08/24-089,Nguyễn Thị Đào,8/29/2024,PR24/08-101,0904500090000000,Sơn dầu màu xám,Kg,10,Kg,10,,VND,150000,0,1500000,NV041,Võ Công Vũ
 PO08/24-089,Nguyễn Thị Đào,8/29/2024,PR24/08-101,5200110160000000,"Que Hàn Sắt 2,5",Hộp,10,Hộp,10,,VND,80000,0,800000,NV041,Võ Công Vũ
 PO08/24-089,Nguyễn Thị Đào,8/29/2024,PR24/08-101,0906600600000000,Sắt hộp kẻm 40x80x1.4mm,CAY,35,CAY,35,,VND,260000,0,9100000,NV041,Võ Công Vũ
 PO08/24-089,Nguyễn Thị Đào,8/29/2024,PR24/08-101,0916600740000000,Mặt bít sắt 220x220x5mm,CAI,10,CAI,10,,VND,40000,0,400000,NV041,Võ Công Vũ
 PO08/24-090,Nguyễn Thị Đào,8/29/2024,PR24/08-102,HAT-TACKS-JB,Hạt Taical kéo sợi Jumbo. [Hanotech: HF006R] [Châu Âu: PP1002BRT],KG,162000,KG,162000,,VND,8200,0,1328400000,NCC010014,CÔNG TY CỔ PHẦN NHỰA CHÂU ÂU PHƯƠNG NAM
 PO08/24-090,Nguyễn Thị Đào,8/29/2024,PR24/08-103,HAT-EMMV8C,Hạt phụ gia MV8C (Châu Âu),KG,2000,KG,2000,,VND,23000,0,46000000,NCC010014,CÔNG TY CỔ PHẦN NHỰA CHÂU ÂU PHƯƠNG NAM
-PO08/24-091,Nguyễn Thị Đào,8/29/2024,PR24/08-100,0925100050000000,Bộ đĩa từ phi 165mm -  10 nam châm. ( Gia Công Theo Bản vẽ ),BO,2,BO,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-091,Nguyễn Thị Đào,8/29/2024,PR24/08-100,0925100050000000,Bộ đĩa từ phi 165mm -  10 nam châm. ( Gia Công Theo Bản vẽ ),BO,2,BO,2,,VND,3580000,0,7160000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-091,Nguyễn Thị Đào,8/29/2024,PR24/08-105,0905300940000000,Dao cắt xốp cầm tay - HS15 - 200W,CAI,1,CAI,1,,VND,2100000,0,2100000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-092,Nguyễn Thị Đào,8/29/2024,PR24/08-104,0927300010000000,Càng xe nâng 1500KG - dài 1200mm,BO,1,BO,1,,VND,9000000,720000,9000000,NCC010003,CÔNG TY TNHH SX TM DV 7777
 PO08/24-092,Nguyễn Thị Đào,8/29/2024,PR24/08-104,0927300020000000,Càng xe nâng 700kg - dài 1000mm.,BO,1,BO,1,,VND,8000000,640000,8000000,NCC010003,CÔNG TY TNHH SX TM DV 7777
@@ -752,14 +740,89 @@ PO08/24-093,Nguyễn Thị Đào,8/29/2024,PR24/08-106,0905501940000000,VÍT B�
 PO08/24-093,Nguyễn Thị Đào,8/29/2024,PR24/08-106,0906202630000000,Ống nhựa PVC BM  phi 315 x 8mm.,CAY,5,CAY,5,,VND,2950000,0,14750000,NV041,Võ Công Vũ
 PO08/24-093,Nguyễn Thị Đào,8/29/2024,PR24/08-106,0903600170000000,Tôn lợp Việt Nhật dày 5 zem (9 sóng),TAM,8,TAM,8,,VND,693000,0,5544000,NV041,Võ Công Vũ
 PO08/24-093,Nguyễn Thị Đào,8/29/2024,PR24/08-106,0905500480000000,Sắt kẽm H30x60 (1.4 ly),CAY,12,CAY,12,,VND,195000,0,2340000,NV041,Võ Công Vũ
-PO08/24-093,Nguyễn Thị Đào,8/29/2024,PR24/08-107,0902210770000000,TỦ ĐÔNG MÁT SANAKY 485 LÍT VH-668W2 NHÔM (R290),CAI,1,CAI,1,,VND,1,0,1,NV041,Võ Công Vũ
-PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,0906101340000000,Nối inox 2 đầu ren ngoài 75x100mm.,CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,09047012900000000,Co lơi inox ren trong phi 75mm.,CAI,3,CAI,3,,VND,1,0,3,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,09061036000000,Nối kép inox ren ngoài 75mm.,CAI,3,CAI,3,,VND,1,0,3,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,090610210100000,Nối thẳng INOX 2 đầu ren trong phi 75mm.,CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,0901000430000000,Ống INOX phi 49x 100 - 1 đầu đuôi chuột.,CAI,4,CAI,4,,VND,1,0,4,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,090610220000000,Bầu Nối hàn INOX 200 giảm 75mm,CAI,1,CAI,1,,VND,1,0,1,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
-PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,0916600730000000,Mặt bít inox phi 250x5mm ( GC theo bản vẽ),CAI,2,CAI,2,,VND,1,0,2,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0902202890000000,Bóng đèn led Philips TForce 40W - E27.,CAI,40,CAI,40,,VND,1,0,40,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0902202860000000,Bóng đèn led tube 1.2m 18w DE Philips (điện 2 đầu),CAI,40,CAI,40,,VND,1,0,40,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0905600560000000,Dây cáp điện cao áp silicon AC/DC. High Voltage wire 150Kv- 4.0x70.,M,5,M,5,,VND,1,0,5,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0902210780000000,Relay nhiệt EOCR - I3M420 Schneider,CAI,4,CAI,4,,VND,1,0,4,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0902201680000000,Contactor Schneider LC1D32M7 - 32A.,CAI,4,CAI,4,,VND,1,0,4,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-108,0903901280000000,Van diện từ khí nén JANATICS - DS244P60.,CAI,5,CAI,5,,VND,1,0,5,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-109,5200111380000000,"Vòng dệt đường kính 250.5mm, khoan 3 lỗ 8mm",CAI,2,CAI,2,,VND,280000,0,560000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-094,Nguyễn Thị Đào,8/29/2024,PR24/08-109,5200111390000000,"Vòng dệt đường kính 219mm, khoan 3 lỗ 8mm",CAI,2,CAI,2,,VND,280000,0,560000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-095,Thái Nguyễn Minh Quyết,8/30/2024,PR24/08-111,HAT-PPKC-H030GP,Hạt nhựa PP kéo sợi - H030GP,Kg,49500,Kg,49500,,VND,23909.0909,118350000,1183500000,NCC010216,Công Ty TNHH Chemical Trading Việt Nam
+PO08/24-096,Thái Nguyễn Minh Quyết,8/30/2024,PR24/08-112,HAT-PPKC-H030SG,Hạt nhựa PP kéo sợi - H030SG,Kg,520000,Kg,520000,,USD,945,0,491400000,NCC020017,CÔNG TY INTRACO TRADING PTE LTD
+PO08/24-097,Nguyễn Thị Đào,8/31/2024,PR24/08-113,MDM-DML,Dung Môi PP - Dung Môi trực tiếp,KG,1020,KG,1020,,VND,39000,3978000,39780000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO08/24-097,Nguyễn Thị Đào,8/31/2024,PR24/08-113,MDM-FL23,Vàng Chanh 23 FL,KG,100,KG,100,,VND,74000,740000,7400000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO08/24-097,Nguyễn Thị Đào,8/31/2024,PR24/08-113,MDM-FX61,Trắng 61 FL,KG,25,KG,25,,VND,71000,177500,1775000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO08/24-097,Nguyễn Thị Đào,8/31/2024,PR24/08-113,MDM-DMO001,Dung môi Chậm khô Trực Tiếp,KG,24,KG,24,,VND,74000,177600,1776000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO08/24-098,Nguyễn Thị Đào,8/31/2024,PR24/08-114,9045002440000000,Pallet gỗ kích thước WxLxH: 105.0x105.0x15.0cm; TL: 18-25kg/cái,Cái,9,Cái,9,,VND,140000,100800,1260000,NCC010304,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI PALLET QUỐC TOẢN
+PO08/24-099,Nguyễn Thị Đào,8/31/2024,PR24/08-110,0700100240000000,AXIT LOÃNG CHÂM BÌNH,LIT,210,LIT,210,,VND,7000,0,1470000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-099,Nguyễn Thị Đào,8/31/2024,PR24/08-115,0905300610000000,Dao hàn siêu âm máy cắt Jumbo ( theo bản vẽ),CAI,2,CAI,2,,VND,1350000,0,2700000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-099,Nguyễn Thị Đào,8/31/2024,PR24/08-116,0905700740000000,Phớt bơm nước 32x47x60 (có lò xo),CAI,4,CAI,4,,VND,110000,0,440000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-099,Nguyễn Thị Đào,8/31/2024,PR24/08-116,091960105000000,Bulong nhúng kẽm M9.25x25mm - P- 16G ( theo mẫu),CON,40,CON,40,,VND,3500,0,140000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-100,Nguyễn Thị Đào,8/31/2024,PR24/08-117,0924100120000000,kìm hàn que 250mm 500A,CAI,2,CAI,2,,VND,30000,0,60000,NV041,Võ Công Vũ
+PO08/24-100,Nguyễn Thị Đào,8/31/2024,PR24/08-117,0902209357000000,Phích cắm điện đực chịu nhiệt PC 2A-02 điện quang,CAI,2,CAI,2,,VND,5000,0,10000,NV041,Võ Công Vũ
+PO08/24-100,Nguyễn Thị Đào,8/31/2024,PR24/08-117,0904500010000000,Sơn màu xám,THUNG,1,THUNG,1,,VND,330000,0,330000,NV041,Võ Công Vũ
+PO08/24-100,Nguyễn Thị Đào,8/31/2024,PR24/08-117,0906600700000000,Bánh xe giàn giáo LK 120 cao su Khóa,CAI,4,CAI,4,,VND,82500,0,330000,NV041,Võ Công Vũ
+PO09/24-001,Nguyễn Dũng Trung,9/4/2024,,0102129002000000,"Vải manh PP, trắng đục, K123cm (Xẻ 2 hông thành 2 manh 123cm), MĐ: 8x8, TL: 84.0g/m. [4000 mét/cuộn]/THACUSMY123080080084TRDU",M,300000,KG,25200,,VND,1,0,300000,KH010018,CÔNG TY TNHH LUCKY STAR PLAST
+PO08/24-101,Nguyễn Thị Đào,9/4/2024,PR24/08-118,0917400051000000,Băng keo 3M dán nền màu vàng 50mm,CUON,20,CUON,20,,VND,69000,110400,1380000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-101,Nguyễn Thị Đào,9/4/2024,PR24/08-118,0917400054000000,Băng keo 3M dán nền màu vàng đen 50mm,CUON,5,CUON,5,,VND,126000,50400,630000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-101,Nguyễn Thị Đào,9/4/2024,PR24/08-118,0917400055000000,Băng keo 3M dán nền màu đỏ vàng 100mm,CUON,10,CUON,10,,VND,275000,220000,2750000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-002,Nguyễn Dũng Trung,9/4/2024,,THATRHAW680100110120TRDU,"Cuộn PP, trắng đục, tráng ngoài (bóng), K68cm, MĐ: 10x11, TL: 120g/m.",M,47023.34,KG,5642.8008,,VND,9000,0,10679400,NCC010197,CÔNG TY TNHH BAO BÌ NHỰA CONTINENTAL
+PO09/24-002,Nguyễn Dũng Trung,9/4/2024,,THATRHAW730100110129TRDU,"Cuộn PP, trắng đục, tráng ngoài (bóng), K73cm, MĐ: 10x11, TL: 129g/m.",M,20145.66,KG,2598.7901,,VND,9000,0,4871520,NCC010197,CÔNG TY TNHH BAO BÌ NHỰA CONTINENTAL
+PO09/24-002,Nguyễn Dũng Trung,9/4/2024,,THATRHAW730100110129VA00,"Cuộn PP,màu vàng, tráng ngoài (bóng), K73cm, MĐ: 10x11, TL: 129g/m.",M,13435.24,KG,1733.146,,VND,9000,0,3271050,NCC010197,CÔNG TY TNHH BAO BÌ NHỰA CONTINENTAL
+PO08/24-102,Nguyễn Thị Đào,9/4/2024,PR24/08-108,09-02207731000000,Giắc cắm sạc xe nâng hiệu Anderson 175A,BO,5,BO,5,,VND,350000,140000,1750000,NCC010003,CÔNG TY TNHH SX TM DV 7777
+PO09/24-003,Nguyễn Thị Đào,9/5/2024,PR24/09-001,0700100030000000,nhớt 10,LIT,4000,LIT,4000,,VND,30909.0909,12363636,123636364,NCC010046,CÔNG TY TNHH TM HUY BÌNH PHÁT
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300100360000000,Bút lông dầu đỏ,CAY,20,CAY,20,,VND,8000,12800,160000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300100460000000,Giấy A472,Gram,30,Gram,30,,VND,50000,120000,1500000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300101280000000,Bấm Kim 10 Plus,CAI,5,CAI,5,,VND,30000,15000,150000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,53-5300100370000000,Bút lông dầu xanh,CAY,20,CAY,20,,VND,8000,12800,160000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,VPP004,Decal Oji,XAP,10,XAP,10,,VND,80000,64000,800000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,VPP007,Mực lông dầu đỏ,HOP,12,HOP,12,,VND,8500,10200,102000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,VPP008,Mực lông dầu xanh,HOP,12,HOP,12,,VND,8500,10200,102000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300100350000000,Bút Lông Bảng xanh,Cây,20,Cây,20,,VND,7500,12000,150000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300100570000000,Kẹp Bướm 32 mm,Hộp,5,Hộp,5,,VND,12000,6000,60000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,VPP002,Bút Bi Để Bàn,Bộ,3,Bộ,3,,VND,12000,2880,36000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300101860000000,Dây đeo thẻ Khách.,CAI,15,CAI,15,,VND,4000,4800,60000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300102150000000,Bút Sơn Thùng ống nhựa Thanh rỗng bản 30mm.,CAI,12,CAI,12,,VND,45000,43200,540000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300102160000000,Mực bút lông dầu xanh - 380ml,HOP,2,HOP,2,,VND,49000,9800,98000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300102170000000,Mực bút lông dầu đỏ - 380ml,HOP,2,HOP,2,,VND,49000,9800,98000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,0917400029000000,Băng keo 2 mặt ( 2.5 cm ),CUON,3,CUON,3,,VND,5500,1320,16500,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-004,Nguyễn Thị Đào,9/5/2024,PR24/09-004,5300100950000000,Giấy A1,TO,20,TO,20,,VND,3000,4800,60000,NCC010073,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ GIA VĨ
+PO09/24-005,Nguyễn Thị Đào,9/5/2024,PR24/09-001,0909700010000000,Vải lau,Kg,800,Kg,800,,VND,8000,0,6400000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-006,Nguyễn Thị Đào,9/5/2024,PR24/09-001,0700100090000000,dầu do,Lít,400,Lít,400,,VND,16445.45,657818,6578180,NCC010124,CÔNG TY XĂNG DẦU KHU VỰC II TNHH MỘT THÀNH VIÊN
+PO09/24-007,Thái Nguyễn Minh Quyết,9/5/2024,PR24/09-003,HAT-PPKC-P400S,Hạt nhựa PP kéo sợi -P400S,KG,210000,KG,210000,,VND,26700,0,5607000000,NCC010015,CÔNG TY TNHH MỘT THÀNH VIÊN MARUBENI VIỆT NAM
+PO09/24-008,Nguyễn Thị Đào,9/5/2024,PR24/09-007,5200101410000000,Ống giấy cũ dài trên 135cm.,KG,3030,KG,3030,,VND,8000,0,24240000,NCC010050,PHAN HỮU ĐỨC
+PO09/24-009,Nguyễn Thị Đào,9/5/2024,PR24/09-005,MDM-DMC,Dung môi Chỉnh,KG,25,KG,25,,VND,39000,97500,975000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-009,Nguyễn Thị Đào,9/5/2024,PR24/09-005,MDM-FL92,Đen 92 FL,KG,100,KG,100,,VND,69000,690000,6900000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-009,Nguyễn Thị Đào,9/5/2024,PR24/09-005,MDM-FLDO192,Đỏ 192C FL,KG,100,KG,100,,VND,74000,740000,7400000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-009,Nguyễn Thị Đào,9/5/2024,PR24/09-005,MDM-FLDO192GT,Đỏ 192C FL gián tiếp,KG,75,KG,75,,VND,74000,555000,5550000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-010,Nguyễn Thị Đào,9/5/2024,PR24/09-008,0910900020000000,CỌ SƠN 5 Phân,Cái,3,Cái,3,,VND,15000,0,45000,NV041,Võ Công Vũ
+PO09/24-010,Nguyễn Thị Đào,9/5/2024,PR24/09-008,0904500010000000,Sơn màu xám,THUNG,1,THUNG,1,,VND,490000,0,490000,NV041,Võ Công Vũ
+PO09/24-011,Nguyễn Thị Đào,9/5/2024,PR24/09-007,0500100020000000,"Dây đai ép kiện, màu vàng, K15.0mm, TL: 10.0g/m.",Cuộn,100,KG,1000,,VND,415000,3320000,41500000,NCC010041,CÔNG TY TNHH DAE DUK BAND VIỆT NAM
+PO09/24-012,Nguyễn Thị Đào,9/5/2024,PR24/09-006,MANH-195340G750LDPE.THA,"Manh LDPE trong, K195.0x340PB(+1.0/-0), TL: 750g/cái +/- 3%(không có đường hàn đáy, dạng ống), cắt thẳng 340cm -2/+5cm",CAI,1050,KG,787.5,,VND,31715,2664060,33300750,KH010005,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI KIÊN THẠNH
+PO09/24-013,Nguyễn Thị Đào,9/5/2024,PR24/09-007,0500100080000000,"Dây đai ép kiện PET, màu xanh lá, K15.5mm, dày 0.6mm, bề mặt dập nổi, tension >350kgF, 20kg/cuộn.",CUON,5,KG,100,,VND,504000,0,2520000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-014,Thái Nguyễn Minh Quyết,9/5/2024,PR24/09-003,HAT-PPKC-P400S,Hạt nhựa PP kéo sợi -P400S,KG,210000,KG,210000,,VND,26700,0,5607000000,NCC010389,CÔNG TY TRÁCH NHIỆM HỮU HẠN HÓA DẦU LONG SƠN
+PO09/24-015,Nguyễn Thị Đào,9/6/2024,PR24/09-009,0908200075000000,Xe Nâng điện Ngồi KOMATSU FB09M-12 (900kg),CHIEC,1,CHIEC,1,,VND,150000000,12000000,150000000,NCC010003,CÔNG TY TNHH SX TM DV 7777
+PO09/24-016,Nguyễn Thị Đào,9/6/2024,PR24/09-010,0906800109000000,Cân điện tử 100kg (loại sạc pin),CAI,1,CAI,1,,VND,4200000,420000,4200000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-017,Nguyễn Thị Đào,9/6/2024,PR24/09-012,5200108741000000,HAY KINGDOM ( UNIPACK),CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-017,Nguyễn Thị Đào,9/6/2024,PR24/09-012,5200105650000000,KCP đường kính trắng đặc biệt,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-018,Thái Nguyễn Minh Quyết,9/6/2024,PR24/09-011,0908600790000000,"Rơ le an toàn pilz 750101/750101,PNOZS1, 24VDC 2n/o",CAI,1,CAI,1,,USD,178,0,178,NCC020024,"Changzhou United Win Pack Co., Ltd"
+PO09/24-018,Thái Nguyễn Minh Quyết,9/6/2024,PR24/09-011,0902209590000000,Biến tần INOVACE MD500ET 5.5GB,CAI,1,CAI,1,,USD,237,0,237,NCC020024,"Changzhou United Win Pack Co., Ltd"
+PO09/24-018,Thái Nguyễn Minh Quyết,9/6/2024,PR24/09-011,0908601330000000,Bộ nguồn WDR - 120 - 24- input AC 2 pha 400-500V. Output DC24V-5A,CAI,1,CAI,1,,USD,190,0,190,NCC020024,"Changzhou United Win Pack Co., Ltd"
+PO09/24-019,Thái Nguyễn Minh Quyết,9/7/2024,PR24/09-013,HAT-PPKC-H350F,Hạt nhựa PP kéo sợi - H350F,KG,89100,KG,89100,,VND,23545.45,209789960,2097899595,NCC010390,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ JP NHÂN HÒA
+PO09/24-019,Thái Nguyễn Minh Quyết,9/7/2024,PR24/09-013,HAT-PPKC-J-150SA,Hạt nhựa PP kéo sợi - J-150SA,KG,43200,KG,43200,,VND,23545.45,101716344,1017163440,NCC010390,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ JP NHÂN HÒA
+PO09/24-019,Thái Nguyễn Minh Quyết,9/7/2024,PR24/09-013,HAT-PPKC-SJ-150SA,Hạt nhựa PP kéo sợi - SJ-150SA,KG,126425,KG,126425,,VND,23545.45,297673352,2976733516,NCC010390,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ JP NHÂN HÒA
+PO09/24-020,Nguyễn Thị Đào,9/7/2024,PR24/09-015,BAO-048075G13HDPE.DW,"Túi HDPE, K48.0x75.0LL(+1.0/-0), TL: 13.0g/cái(+/-1.0). [Ghi chú: cắt nguội dài 76.5cm(+/-1), hàn đáy 2 đường].",CAI,298000,KG,3874,,VND,442,10537280,131716000,NCC010020,CÔNG TY TNHH AMIBA VIỆT NAM
+PO09/24-020,Nguyễn Thị Đào,9/7/2024,PR24/09-015,BAO-048075G19LDPE.DW,"Túi LDPE, K48.0x75.0LL(+1.0/-0), TL: 19.0g/cái(+/-1.0).",CAI,15000,KG,285,,VND,646,775200,9690000,NCC010020,CÔNG TY TNHH AMIBA VIỆT NAM
+PO09/24-021,Nguyễn Thị Đào,9/7/2024,PR24/09-014,0908700080000000,bình oxy,Bình,1,Bình,1,,VND,150000,0,150000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-021,Nguyễn Thị Đào,9/7/2024,PR24/09-014,0925300030000000,Ắc nhựa dao động CS ( theo mấu),CAI,720,CAI,720,,VND,1,0,720,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,0906101340000000,Nối inox 2 đầu ren ngoài 75x100mm.,CAI,2,CAI,2,,VND,117000,0,234000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,09047012900000000,Co lơi inox ren trong phi 75mm.,CAI,3,CAI,3,,VND,110000,0,330000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,09061036000000,Nối kép inox ren ngoài 75mm.,CAI,3,CAI,3,,VND,145000,0,435000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,090610210100000,Nối thẳng INOX 2 đầu ren trong phi 75mm.,CAI,2,CAI,2,,VND,195000,0,390000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,0901000430000000,Ống INOX phi 49x 100 - 1 đầu đuôi chuột.,CAI,4,CAI,4,,VND,75000,0,300000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,090610220000000,Bầu Nối hàn INOX 200 giảm 75mm,CAI,1,CAI,1,,VND,635000,0,635000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,0916600730000000,Mặt bít inox phi 250x5mm ( GC theo bản vẽ),CAI,2,CAI,2,,VND,455000,0,910000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,0901301880000000,Bulong inox lục giác đầu bằng M8x15mm + tán.,CON,20,CON,20,,VND,3000,0,60000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-052,Nguyễn Thị Đào,8/16/2024,PR24/08-059,09111000930000000,Tấm cao su rộng 1000mm - dày 2mm,M,1,M,1,,VND,450000,0,450000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
 PO08/24-053,Nguyễn Thị Đào,8/16/2024,PR24/08-060,THATRSAH095080080076TRDU,"Vải manh PP trắng đục K.95.0cm tráng bóng ngoài; MĐ: 8.0x8.0, tráng 20gsm; TL: 76.11g/m",M,1550.4,KG,118.0009,,VND,3044,377553,4719418,KH010005,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI KIÊN THẠNH
@@ -778,4 +841,44 @@ PO08/24-056,Nguyễn Thị Đào,8/20/2024,PR24/08-067,0905500870000000,Sắt h�
 PO08/24-057,Nguyễn Thị Đào,8/20/2024,PR24/08-065,BAO-048075G13HDPE.DW,"Túi HDPE, K48.0x75.0LL(+1.0/-0), TL: 13.0g/cái(+/-1.0). [Ghi chú: cắt nguội dài 76.5cm(+/-1), hàn đáy 2 đường].",CAI,307500,KG,3997.5,,VND,442,10873200,135915000,NCC010020,CÔNG TY TNHH AMIBA VIỆT NAM
 PO08/24-057,Nguyễn Thị Đào,8/20/2024,PR24/08-065,BAO-048075G19LDPE.DW,"Túi LDPE, K48.0x75.0LL(+1.0/-0), TL: 19.0g/cái(+/-1.0).",CAI,45000,KG,855,,VND,646,2325600,29070000,NCC010020,CÔNG TY TNHH AMIBA VIỆT NAM
 PO08/24-058,Nguyễn Thị Đào,8/20/2024,PR24/08-065,040010007000000,"Chỉ may multi Polyester, 2000D (se đôi), màu trắng. [Dùng cho may bao Jumbo]; Lực ≥15KgF, độ giãn ≥ 15.5% ± 1",KG,1000,KG,1000,,VND,50700,5070000,50700000,NCC010011,CÔNG TY TNHH BU KWANG VINA
-Tổng cộng:,,,,,,,5099793.245,,2404270.158,,,,455751881,12738967125,,
+PO09/24-022,Thái Nguyễn Minh Quyết,9/7/2024,PR24/09-016,0905200010000000,ĐAI DƯỚI 10 LỖ LSL6 (470X98X10) LSL6074820,Cái,700,Cái,700,,VND,1,0,700,NCC020024,"Changzhou United Win Pack Co., Ltd"
+PO09/24-022,Thái Nguyễn Minh Quyết,9/7/2024,PR24/09-016,0905200040000000,ĐAI TRÊN 10 LỖ LSL6 (230X98X10) LSL6074807,Cái,700,Cái,700,,VND,1,0,700,NCC020024,"Changzhou United Win Pack Co., Ltd"
+PO09/24-023,Nguyễn Thị Đào,9/7/2024,PR24/09-017,0926400030000000,ĐÁ CẮT 350,Cái,5,Cái,5,,VND,40000,0,200000,NV041,Võ Công Vũ
+PO09/24-023,Nguyễn Thị Đào,9/7/2024,PR24/09-017,0905500500000000,"Sắt hộp vuông 30x30mm dày 1,4mm",CAY,15,CAY,15,,VND,135000,0,2025000,NV041,Võ Công Vũ
+PO09/24-023,Nguyễn Thị Đào,9/7/2024,PR24/09-017,0905500480000000,Sắt kẽm H30x60 (1.4 ly),CAY,5,CAY,5,,VND,195000,0,975000,NV041,Võ Công Vũ
+PO09/24-023,Nguyễn Thị Đào,9/7/2024,PR24/09-017,0905501991000000,Sắt V50 Kẽm,CAY,10,CAY,10,,VND,295000,0,2950000,NV041,Võ Công Vũ
+PO09/24-023,Nguyễn Thị Đào,9/7/2024,PR24/09-017,0903600260000000,Tôn phẳng Việt Nhật dày 5 zem.,TAM,25,TAM,25,,VND,160000,0,4000000,NV041,Võ Công Vũ
+PO09/24-024,Nguyễn Thị Đào,9/7/2024,PR24/09-018,MDM-FL10,Đỏ Cam 10 FL,KG,25,KG,25,,VND,74000,185000,1850000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-024,Nguyễn Thị Đào,9/7/2024,PR24/09-018,MDM-FL23,Vàng Chanh 23 FL,KG,50,KG,50,,VND,74000,370000,3700000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-024,Nguyễn Thị Đào,9/7/2024,PR24/09-018,MDM-FL39,Xanh Dương 39 FL,KG,50,KG,50,,VND,76000,380000,3800000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-024,Nguyễn Thị Đào,9/7/2024,PR24/09-018,MDM-FLXD2763,Xanh Dương 2763 FL,KG,50,KG,50,,VND,76000,380000,3800000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-025,Nguyễn Thị Đào,9/7/2024,PR24/09-019,VPP-009,ĐẤT SẠCH,Bao,20,Bao,20,,VND,35000,0,700000,NV041,Võ Công Vũ
+PO09/24-026,Nguyễn Thị Đào,9/9/2024,PR24/09-020,090570230000000,Phớt lò xo cốt 16mm (Theo mẫu),CAI,4,CAI,4,,VND,40000,0,160000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-026,Nguyễn Thị Đào,9/9/2024,PR24/09-020,0908700420000000,Bình ắc quy 12V - 7A Yuasa NPW36-12.,CAI,6,CAI,6,,VND,1,0,6,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-026,Nguyễn Thị Đào,9/9/2024,PR24/09-020,0902210790000000,Card - encoder cho biến tần YAKAWA : MOdel : PG-B3.,CAI,1,CAI,1,,VND,1960000,0,1960000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-026,Nguyễn Thị Đào,9/9/2024,PR24/09-021,0905700380000000,PHỚT 45X65,CAI,10,CAI,10,,VND,40000,0,400000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-027,Nguyễn Thị Đào,9/9/2024,PR24/09-021,0902100020000000,DÂY CU ROA 420H,Cái,3,Cái,3,,VND,220000,52800,660000,NCC010247,CÔNG TY TNHH ALPHA POWER
+PO09/24-027,Nguyễn Thị Đào,9/9/2024,PR24/09-021,0902101050000000,Dây curoa 400H - bản 30mm.,SOI,3,SOI,3,,VND,225000,54000,675000,NCC010247,CÔNG TY TNHH ALPHA POWER
+PO09/24-028,Nguyễn Thị Đào,9/10/2024,PR24/09-022,5200108860000000,TRIBAT 43 X 65 ( SAIGONXANH),CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-028,Nguyễn Thị Đào,9/10/2024,PR24/09-022,520010891000000,Dongwon 94-A,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-028,Nguyễn Thị Đào,9/10/2024,PR24/09-022,520010898000000,Dongwon 97-A,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-028,Nguyễn Thị Đào,9/10/2024,PR24/09-022,5200104650000000,DOLFIN 40KG,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-028,Nguyễn Thị Đào,9/10/2024,PR24/09-022,5200105650000000,KCP đường kính trắng đặc biệt,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-028,Nguyễn Thị Đào,9/10/2024,PR24/09-022,5200106340000000,Pink Horse,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-028,Nguyễn Thị Đào,9/10/2024,PR24/09-022,5200108723000000,Bản in RAMA 98,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-028,Nguyễn Thị Đào,9/10/2024,PR24/09-022,5200108731000000,Bản in SFFM 99,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-028,Nguyễn Thị Đào,9/10/2024,PR24/09-022,5200110920000000,BẢNG IN BLUE HORSE RB,CM2,10000,CM2,10000,,VND,290,232000,2900000,NCC010204,CÔNG TY TNHH CHÍNH KIỆT
+PO09/24-029,Nguyễn Thị Đào,9/11/2024,PR24/09-023,HAT-TAYW0282,Hạt tẩy W0282 (Hồng Vĩnh Phát),KG,25,KG,25,,VND,75000,0,1875000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-030,Nguyễn Thị Đào,9/12/2024,PR24/09-024,090570143000000,Phớt chắn dầu 145x175x15mm,CAI,2,CAI,2,,VND,470000,0,940000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-030,Nguyễn Thị Đào,9/12/2024,PR24/09-024,090570145000000,Phớt chắn dầu 100x125x12mm.,CAI,5,CAI,5,,VND,270000,0,1350000,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-030,Nguyễn Thị Đào,9/12/2024,PR24/09-024,0904801090000000,Bánh răng M=0.8 ; Z=19 ( Gia công theo bản vẽ),CAI,50,CAI,50,,VND,1,0,50,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-030,Nguyễn Thị Đào,9/12/2024,PR24/09-024,0904801100000000,Bánh răng M=0.8 ; Z=8 ( Gia công theo bản vẽ),CAI,40,CAI,40,,VND,1,0,40,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-030,Nguyễn Thị Đào,9/12/2024,PR24/09-024,0904801110000000,Bánh răng hành tinh răng trong M=0.8 ; Z=46 ( Gia công theo bản vẽ),CAI,20,CAI,20,,VND,1,0,20,NCC010053,TRẦN HỮU THÀNH _ VẬT TƯ NHÀ MÁY
+PO09/24-031,Nguyễn Thị Đào,9/12/2024,PR24/09-002,0926700020000000,"CỤC CHÊM CUỘN(Đáy dưới: L 12cm x W 10cm, Đáy trên: L 3cm x W 10cm, Mặt dựng: H 10cm x W 10cm, Mặt vát: L 12cm x W 10cm)c",CAI,500,CAI,500,,VND,6000,240000,3000000,NCC010304,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI PALLET QUỐC TOẢN
+PO09/24-032,Nguyễn Thị Đào,9/12/2024,PR24/09-025,MDM-DML,Dung Môi PP - Dung Môi trực tiếp,KG,1020,KG,1020,,VND,39000,3978000,39780000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-032,Nguyễn Thị Đào,9/12/2024,PR24/09-025,MDM-FL021,Cam 021C FL.,KG,50,KG,50,,VND,75000,375000,3750000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-032,Nguyễn Thị Đào,9/12/2024,PR24/09-025,MDM-FL39GT,Xanh Dương 39 FL gián tiếp,KG,25,KG,25,,VND,76000,190000,1900000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-032,Nguyễn Thị Đào,9/12/2024,PR24/09-025,MDM-FL81GT,Tím 81 FL gián tiếp,KG,50,KG,50,,VND,91000,455000,4550000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-032,Nguyễn Thị Đào,9/12/2024,PR24/09-025,MDM-FLREFBLUEGT,Xanh Dương Reflex Blue C gián tiếp,KG,100,KG,100,,VND,80000,800000,8000000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+PO09/24-032,Nguyễn Thị Đào,9/12/2024,PR24/09-025,MDM-FLXL3415C,Xanh Lá 3415C FL,KG,75,KG,75,,VND,76000,570000,5700000,NCC010016,CÔNG TY CỔ PHẨN SẢN XUẤT THƯƠNG MẠI TÂN VIỆT SINH - CHI NHANH 1 (LONG AN)
+Tổng cộng:,,,,,,,6597659.485,,3248598.395,,,,1246732931,30799423370,,
