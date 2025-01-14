@@ -1,26 +1,200 @@
 ﻿Số chứng từ,Ngày tạo,Người tạo,Loại kế hoạch,Ghi chú 1,Vật tư,Tên vật tư,Đvt 1,Số lượng 1,HSQĐ,Đvt 2,Số lượng 2,Ghi chú 2,Mục đích sử dụng,Ngày sử dụng
-EP2501-0009,04/01/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư sửa chữa máy ép kiện.,0902700910000000,Van 1 chiều thủy lực CIT-04 ren 21 mm,CAI,1,1,CAI,1,,Thay thế sửa chữa,06/01/2025
-EP2501-0009,04/01/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư sửa chữa máy ép kiện.,09061047000000,Nối thủy lực 1 dầu ren trong 27 côn lõm - 1 đầu răng ngoài 21.,CAI,2,1,CAI,2,,Thay thế sửa chữa,06/01/2025
-EP2501-0009,04/01/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư sửa chữa máy ép kiện.,0901101740000000,Nối thủy lực 27 ( theo mẫu ),CAI,2,1,CAI,2,,Thay thế sửa chữa,06/01/2025
-EP2501-0010,04/01/2025,Hà Mạnh Hùng,Theo bộ phận,Thiết bị cấp cho đội lắp máy PKT.,0906802080000000,Máy Siết Bu Lông Dùng Pin ITMAN HT/IWS,CAI,1,1,CAI,1,,Công cụ dụng cụ.,06/01/2025
-EP2501-0011,04/01/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư lắp đặt cho máy dệt RX6.0 Pro phân xưởng 6.,0902211360000000,Quạt Thông Gió Dasin KVF-1845  - 380V - 135W,CAI,27,1,CAI,27,,Lắp đặt đầu tư mới.,10/01/2025
-EP2501-0006,03/01/2025,Nguyễn Dũng Trung,Theo bộ phận,Sủi kiếng jumbo ( sủi kiếng mua ngoài ),SUI-KIENG-JB,Sủi kiếng jumbo ( sủi kiếng mua ngoài ),KG,2000,1,KG,2000,TỒN KHO,,06/01/2025
-EP2501-0007,03/01/2025,Đặng Thị Mỹ Hạnh,Theo bộ phận,Đề xuất mua xà bông rửa tay công nhân,5200110650000003,Xà phòng rửa chén,THUNG,5,1,THUNG,5,,,05/01/2025
-EP2501-0008,03/01/2025,Nguyễn Dũng Trung,Theo bộ phận,"Tem bao jumbo NISSIN 01JBO-NIS110106-BEI-KSR
-Túi tài liệu PP+PE, 14cm x 22cm có nắp  , PP màu beige  có tráng trong, PE 100mic.",10TEM-01JBO-NIS110106,Tem bao jumbo NISSIN 01JBO-NIS110106-BEI-KSR,CAI,2050,0.001,KG,2.05,Jumbo,,06/01/2025
-EP2501-0008,03/01/2025,Nguyễn Dũng Trung,Theo bộ phận,"Tem bao jumbo NISSIN 01JBO-NIS110106-BEI-KSR
-Túi tài liệu PP+PE, 14cm x 22cm có nắp  , PP màu beige  có tráng trong, PE 100mic.",10POC-NIS110106-0000,"Túi tài liệu PP+PE, 14cm x 22cm có nắp  , PP màu beige  có tráng trong, PE 100mic.",CAI,2050,0.016,KG,32.8,Jumbo,,06/01/2025
-EP2501-0001,02/01/2025,Nguyễn Dũng Trung,Theo bộ phận,"Vải Manh PP, màu trắng UV, K119.0cm, MĐ: 13.0x13.0, GC 2 điểm chỉ đôi 30mm, ID định vị màu xanh dương giữa gia cường, 42+35+42,",THACAAGS119013013237TRDU,"Vải Manh PP, màu trắng UV, K119.0cm, MĐ: 13.0x13.0, GC 2 điểm chỉ đôi 30mm, ID định vị màu xanh dương giữa gia cường, 42+35+42, TL: 237.0g/mét. (194.2gsm +GC 5.9 g/m)",M,44000,0.237,KG,10428,SO2412-0055,,06/01/2025
-EP2501-0002,02/01/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5300101126000000,GJ-E1422 (LOUIS),CM2,10000,1,CM2,10000,,,03/01/2025
-EP2501-0002,02/01/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200105600000000,KCP Đường kính trắng cao cấp (ĐỎ),CM2,10000,1,CM2,10000,,,03/01/2025
-EP2501-0002,02/01/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200105620000000,KCP ĐƯỜNG TINH LUYỆN (CAM),CM2,10000,1,CM2,10000,,,03/01/2025
-EP2501-0002,02/01/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200108690000000,Bản in EL TORO - UNIPACK,CM2,10000,1,CM2,10000,,,03/01/2025
-EP2501-0003,02/01/2025,Thái Minh Quyết,Theo bộ phận,Mua hạt màu cho thử nghiệm bao jumbo louis ( 50kg),HAT-BEIGE-EMH66185,Hạt màu beige EMH66185,KG,50,1,KG,50,,,03/01/2025
-EP2501-0004,02/01/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FLDO192,Đỏ 192C FL,KG,50,1,KG,50,,Máy in,05/01/2025
-EP2501-0004,02/01/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-DML,Dung Môi PP - Dung Môi trực tiếp,KG,1020,1,KG,1020,,Máy in,05/01/2025
-EP2501-0004,02/01/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL92GT,Đen 92 FL gián tiếp,KG,50,1,KG,50,,Máy in,05/01/2025
-EP2501-0004,02/01/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FLXL3415C,Xanh Lá 3415C FL,KG,25,1,KG,25,,Máy in,05/01/2025
-EP2501-0005,02/01/2025,Trần Trung Hiếu,Theo bộ phận,"1. Cáp chuyển tín hiệu màn hình máy scan sợi 8.
-2. Bộ phát wifi cân cuộn xưởng 1.",0901000450000000,Cáp Displayport,Cái,1,1,Cái,1,,Chuyển tín hiệu màn hình máy scan sợi,02/01/2025
-EP2501-0005,02/01/2025,Trần Trung Hiếu,Theo bộ phận,"1. Cáp chuyển tín hiệu màn hình máy scan sợi 8.
-2. Bộ phát wifi cân cuộn xưởng 1.",BCD008,Bộ thu phát Wifi,Bộ,1,1,Bộ,1,,Phát wifi cho máy tính cân cuộn xưởng 1,03/01/2025
+EP2501-0040,1/14/2025,Hoàng Quang Hợi,Theo bộ phận,Hoàng Quang Hơi,09047012300000000,Nối nhựa PVC BM ren trong phi 34mm,CAI,3,1,CAI,3,,,1/14/2025
+EP2501-0040,1/14/2025,Hoàng Quang Hợi,Theo bộ phận,Hoàng Quang Hơi,0906100290000000,Nối nhựa PVC BM 1 đầu ren ngoài 34,CAI,4,1,CAI,4,,,1/14/2025
+EP2501-0040,1/14/2025,Hoàng Quang Hợi,Theo bộ phận,Hoàng Quang Hơi,0908900041000000,Val nước tiểu nam,CAI,10,1,CAI,10,,,1/14/2025
+EP2501-0040,1/14/2025,Hoàng Quang Hợi,Theo bộ phận,Hoàng Quang Hơi,0903900500000000,Van nhựa PVC BM phi  34,CAI,2,1,CAI,2,,,1/14/2025
+EP2501-0040,1/14/2025,Hoàng Quang Hợi,Theo bộ phận,Hoàng Quang Hơi,09039001020000000,Bộ phao cấp nước xả bồn cầu.,CAI,3,1,CAI,3,,,1/14/2025
+EP2501-0040,1/14/2025,Hoàng Quang Hợi,Theo bộ phận,Hoàng Quang Hơi,0903900820000000,VAN PHAO CƠ INOX PHI 34,CAI,1,1,CAI,1,,,1/14/2025
+EP2501-0041,1/14/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư sửa chữa máy ép kiện.,0906001070000000,Nhông đơn 50- 16 răng - lỗ cốt phi 27mm x then 8x5mm - cồi dài 34mm.,CAI,2,1,CAI,2,,Thay thế sửa chữa.,1/17/2025
+EP2501-0041,1/14/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư sửa chữa máy ép kiện.,0906000860000000,Nhông đơn 50- 16 răng - lỗ cốt 30 x then 8x5mm - cồi dài 34mm.,CAI,2,1,CAI,2,,Thay thế sửa chữa.,1/17/2025
+EP2501-0041,1/14/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư sửa chữa máy ép kiện.,0905600020000000,Sên đôi 50 DAIICHI,HOP,1,1,HOP,1,,Thay thế sửa chữa.,1/17/2025
+EP2501-0033,1/13/2025,Nguyễn Dũng Trung,Theo bộ phận,"Dây chống xì đường kính 6mm sợi poly dùng cho may bao, trọng lượng 6g/m
+Túi tài liệu Ziplock A4, W x L = 25cm x 35cm, TL: 16.8g",08DAY-NOXI-01-0606,"Dây chống xì đường kính 6mm sợi poly dùng cho may bao, trọng lượng 6g/m",M,50000,0.006,KG,300,JUMBO TỒN,,1/16/2025
+EP2501-0033,1/13/2025,Nguyễn Dũng Trung,Theo bộ phận,"Dây chống xì đường kính 6mm sợi poly dùng cho may bao, trọng lượng 6g/m
+Túi tài liệu Ziplock A4, W x L = 25cm x 35cm, TL: 16.8g",10ZIP-W25L35-PE-01,"Túi tài liệu Ziplock A4, W x L = 25cm x 35cm, TL: 16.8g/cái.",Cái,12000,0.0168,KG,201.6,JUMBO TỒN,,1/16/2025
+EP2501-0034,1/13/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL021,Cam 021C FL.,KG,25,1,KG,25,,Máy in,1/16/2025
+EP2501-0034,1/13/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FLNHUVANG,Nhũ Vàng FL,KG,15,1,KG,15,,Máy in,1/16/2025
+EP2501-0035,1/13/2025,Trần Trung Hiếu,Theo bộ phận,"Lắp camera quan sát cửa xưởng sợi 1.
+Sửa camera cổng bảo vệ.",9045002480000001,Cáp chuyển nguồn PoE cho Camera IP,BO,5,1,BO,5,,,1/16/2025
+EP2501-0035,1/13/2025,Trần Trung Hiếu,Theo bộ phận,"Lắp camera quan sát cửa xưởng sợi 1.
+Sửa camera cổng bảo vệ.",DMO001,Đầu mạng RJ45,Cái,100,1,Cái,100,1 hộp 100 cái,,1/16/2025
+EP2501-0035,1/13/2025,Trần Trung Hiếu,Theo bộ phận,"Lắp camera quan sát cửa xưởng sợi 1.
+Sửa camera cổng bảo vệ.",0906101690000000,Hộp test mạng đa năng CT-168( RJ45-RJ11-USB).,CAI,1,1,CAI,1,Https://www.tnc.com.vn/bo-test-do-chieu-dai--do-day-poe-co-lcd-noyafa-nf-8209s.html,,1/16/2025
+EP2501-0036,1/13/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua mì tôm cho công nhân ăn khuya,VPP-010000001000000,Mỳ tôm hảo hảo,THUNG,30,1,THUNG,30,,,1/14/2025
+EP2501-0037,1/13/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư px dệt ngày 13/1/2025,0901000390000000,"ỐNG SẮT CUỘN JUMBO ; phi ngoài 114 mm , dày 3.5 mm , chiều dài 2200mm",ONG,30,1,ONG,30,,,1/16/2025
+EP2501-0037,1/13/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư px dệt ngày 13/1/2025,0916100070000000,Nước sơn vàng vẽ layout,Hộp,3,1,Hộp,3,,,1/16/2025
+EP2501-0037,1/13/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư px dệt ngày 13/1/2025,0902209750000000,Rulo lăn sơn 5cm.,CAI,4,1,CAI,4,,,1/16/2025
+EP2501-0037,1/13/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư px dệt ngày 13/1/2025,0902202760000000,Rulô lăn sơn 10cm,Cây,2,1,Cây,2,,,1/16/2025
+EP2501-0034,1/13/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL79,Xanh Lá 79 FL,KG,25,1,KG,25,,Máy in,1/16/2025
+EP2501-0034,1/13/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-DML,Dung Môi PP - Dung Môi trực tiếp,KG,1020,1,KG,1020,,Máy in,1/16/2025
+EP2501-0032,1/11/2025,Bùi Thái Hòa,Theo bộ phận,Khắc bản in cao su,5300101119000000,Tinh bột biến tính (Louis),CM2,10000,1,CM2,10000,,,1/13/2025
+EP2501-0032,1/11/2025,Bùi Thái Hòa,Theo bộ phận,Khắc bản in cao su,5300101102000000,TSH 331,CM2,10000,1,CM2,10000,,,1/13/2025
+EP2501-0032,1/11/2025,Bùi Thái Hòa,Theo bộ phận,Khắc bản in cao su,5200108440000000,Bản in ECKENBERG,CM2,10000,1,CM2,10000,,,1/13/2025
+EP2501-0032,1/11/2025,Bùi Thái Hòa,Theo bộ phận,Khắc bản in cao su,5200104280000000,Brown horse,CM2,10000,1,CM2,10000,,,1/13/2025
+EP2501-0032,1/11/2025,Bùi Thái Hòa,Theo bộ phận,Khắc bản in cao su,5200106530000000,Rama 138N,CM2,10000,1,CM2,10000,,,1/13/2025
+EP2501-0032,1/11/2025,Bùi Thái Hòa,Theo bộ phận,Khắc bản in cao su,5200105160000000,Green Horse EX,CM2,10000,1,CM2,10000,,,1/13/2025
+EP2501-0032,1/11/2025,Bùi Thái Hòa,Theo bộ phận,Khắc bản in cao su,5300101108000000,WINSON-T301,CM2,10000,1,CM2,10000,,,1/13/2025
+EP2501-0031,1/11/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL39,Xanh Dương 39 FL,KG,100,1,KG,100,,May in,1/15/2025
+EP2501-0031,1/11/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL81GT,Tím 81 FL gián tiếp,KG,25,1,KG,25,,May in,1/15/2025
+EP2501-0031,1/11/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL39GT,Xanh Dương 39 FL gián tiếp,KG,50,1,KG,50,,May in,1/15/2025
+EP2501-0027,1/10/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư vệ sinh cuối năm PX sợi -dệt 10/1/2025,5200109570000000,Chổi cỏ.,CAY,30,1,CAY,30,,,1/24/2025
+EP2501-0027,1/10/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư vệ sinh cuối năm PX sợi -dệt 10/1/2025,0909700010000000,Vải lau,Kg,150,1,Kg,150,,,1/24/2025
+EP2501-0027,1/10/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư vệ sinh cuối năm PX sợi -dệt 10/1/2025,0905300130000000,dao móc chỉ,Cái,80,1,Cái,80,,,1/24/2025
+EP2501-0027,1/10/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư vệ sinh cuối năm PX sợi -dệt 10/1/2025,0700100090000000,dầu do,Lít,60,1,Lít,60,,,1/24/2025
+EP2501-0027,1/10/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư vệ sinh cuối năm PX sợi -dệt 10/1/2025,0908800060000000,Cây tầm vông (quét tần nhà),Cây,8,1,Cây,8,,,1/24/2025
+EP2501-0027,1/10/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư vệ sinh cuối năm PX sợi -dệt 10/1/2025,0908800051000000,Cây lau nhà inox,CAY,20,1,CAY,20,,,1/24/2025
+EP2501-0027,1/10/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư vệ sinh cuối năm PX sợi -dệt 10/1/2025,0911700050000000,Tâm thảm cây lau nhà ( tấm thảm dùng gắn vào cây lau nhà),TAM,20,1,TAM,20,,,1/24/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0912800190000000,Bánh xe lưng thoi trước CS ( Theo mẫu),CAI,30,1,CAI,30,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0912800200000000,Bánh xe lưng thoi sau CS ( Theo mẫu),CAI,60,1,CAI,60,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0901900700000000,Bánh xe côn dài CS ( theo mẫu).,CAI,30,1,CAI,30,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0901900060000000,Bánh xe lệch tâm CS ( theo mẫu),Cái,60,1,Cái,60,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0900500120000000,Bát càng + gối đỡ đầu dù trước CS.,CAI,30,1,CAI,30,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0918900030000000,Gọng thoi cs ( Theo mẫu ),CAI,20,1,CAI,20,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0906700050000000,"Lò xo đầu dù CS, ( Theo mẫu)",Cái,30,1,Cái,30,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0090610220000000,Đầu dù trước CS ( theo bản vẽ ),CAI,30,1,CAI,30,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0090610230000000,Đầu dù sau CS ( theo bản vẽ ),CAI,30,1,CAI,30,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0909100010000000,Yếm thoi CS. (Theo mẫu. ),Cái,20,1,Cái,20,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0028,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư dự phòng bảo trì thoi máy CS,0912800120000000,"Sơ mi bánh xe côn dài CS,",CAI,30,1,CAI,30,,Bảo trì thoi máy CS,1/20/2025
+EP2501-0029,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sữa chữa máy móc thiết bị ( trong kho đã hết ),0902202960000000,"Biến tần Misubishi FR-D740-120-EC - 380V-5,5KW",Cái,2,1,Cái,2,,Thay thế sửa chữa máy móc thiết bị,1/26/2025
+EP2501-0029,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sữa chữa máy móc thiết bị ( trong kho đã hết ),0902202950000000,Biến Tần FR-D740-080-EC .380V-3.7KW,Cái,2,1,Cái,2,,Thay thế sửa chữa máy móc thiết bị,1/26/2025
+EP2501-0029,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sữa chữa máy móc thiết bị ( trong kho đã hết ),0902203050000000,Biến tần Mitsubishi FR-D720S-0.75K 0.75kW 1 Pha 220V,CAI,2,1,CAI,2,,Thay thế sửa chữa máy móc thiết bị,1/26/2025
+EP2501-0029,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sữa chữa máy móc thiết bị ( trong kho đã hết ),0902209540000000,Ổ cắm đế nổi loại 3 ổ SINO,CAI,10,1,CAI,10,,Thay thế sửa chữa máy móc thiết bị,1/26/2025
+EP2501-0029,1/10/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sữa chữa máy móc thiết bị ( trong kho đã hết ),0906202700000000,Ống Gen Chịu Nhiệt Sợi Thủy Tinh Phủ Silicone chông cháy phi 4mm.,M,50,1,M,50,,Thay thế sửa chữa máy móc thiết bị,1/26/2025
+EP2501-0030,1/10/2025,Nguyễn Dũng Trung,Theo bộ phận,"Túi LDPE, K59.0x106.0(+/-2.0)cm, TL: 45.0g/cái(+/-2.0). [Bao chống tĩnh điện]",BAO-059106G45LDPE.LUI,"Túi LDPE, K59.0x106.0(+/-2.0)cm, TL: 45.0g/cái(+/-2.0). [Bao chống tĩnh điện]",CAI,15000,0.045,KG,675,TỒN KHO,,1/13/2025
+EP2501-0023,1/9/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL23,Vàng Chanh 23 FL,KG,75,1,KG,75,,Máy in,1/11/2025
+EP2501-0023,1/9/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL23GT,Vàng Chanh 23 FL gián tiếp (P012C),KG,50,1,KG,50,,Máy in,1/11/2025
+EP2501-0023,1/9/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL81,Tím 81 FL,KG,25,1,KG,25,,Máy in,1/11/2025
+EP2501-0023,1/9/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL92,Đen 92 FL,KG,75,1,KG,75,,Máy in,1/11/2025
+EP2501-0023,1/9/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FLXL3415C,Xanh Lá 3415C FL,KG,75,1,KG,75,,Máy in,1/11/2025
+EP2501-0023,1/9/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-DML,Dung Môi PP - Dung Môi trực tiếp,KG,510,1,KG,510,,Máy in,1/11/2025
+EP2501-0023,1/9/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-DMO001,Dung môi Chậm khô Trực Tiếp,KG,48,1,KG,48,,Máy in,1/11/2025
+EP2501-0024,1/9/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL79,Xanh Lá 79 FL,KG,25,1,KG,25,,Máy in,1/11/2025
+EP2501-0025,1/9/2025,Thái Minh Quyết,Theo bộ phận,KHSDVT dao dập manh nissin,09-24300100000005,Khuôn hình chữ nhật (450mmx450mm),CAI,2,1,CAI,2,,,1/13/2025
+EP2501-0025,1/9/2025,Thái Minh Quyết,Theo bộ phận,KHSDVT dao dập manh nissin,09-24300100000006,Khuôn hình chữ nhật (140mmx450mm),CAI,3,1,CAI,3,,,1/13/2025
+EP2501-0026,1/9/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư ngày 9/1/2025,0901100730000000,Bạc đạn SKF 609 2Z/C3,CAI,200,1,CAI,200,,,1/11/2025
+EP2501-0026,1/9/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư ngày 9/1/2025,0901100620000000,BẠC ĐẠN UC206,CAI,40,1,CAI,40,,,1/11/2025
+EP2501-0026,1/9/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư ngày 9/1/2025,0909500040000000,LƯỚI TINH 150,Cuộn,20,1,Cuộn,20,,,1/11/2025
+EP2501-0026,1/9/2025,Lê Trần Đăng Khoa,Theo bộ phận,Đề xuất vật tư ngày 9/1/2025,0901100170000000,Bạc đạn SKF 6000-2Z/C3,CAI,200,1,CAI,200,,,1/11/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,0905300490000000,Dao rọc giấy (loại lớn),BO,5,1,BO,5,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100360000000,Bút lông dầu đỏ,CAY,10,1,CAY,10,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100410000000,Bút xóa,CAY,10,1,CAY,10,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100460000000,Giấy A472,Gram,40,1,Gram,40,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100510000000,Giấy A5/70,Gram,5,1,Gram,5,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100550000000,Kẹp Bướm 19mm,HOP,5,1,HOP,5,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100590000000,Lưỡi Dao Lớn,HOP,2,1,HOP,2,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,53-5300100370000000,Bút lông dầu xanh,CAY,10,1,CAY,10,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,VPP001,ACCO Nhựa,HOP,3,1,HOP,3,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,VPP003,Bìa Lổ Mỏng,XAP,5,1,XAP,5,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,VPP007,Mực lông dầu đỏ,HOP,12,1,HOP,12,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,VPP008,Mực lông dầu xanh,HOP,6,1,HOP,6,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100570000000,Kẹp Bướm 32 mm,Hộp,3,1,Hộp,3,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100640000000,Tập SV 200 trang,QUYEN,5,1,QUYEN,5,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100780000000,Bút Chì,Cây,10,1,Cây,10,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100960000000,Sổ Ca Rô 25x33 Dày,QUYEN,5,1,QUYEN,5,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100890000000,Mực Dấu Đỏ,Hộp,2,1,Hộp,2,,,1/13/2025
+EP2501-0020,1/8/2025,Võ Thị Minh Tiến,Theo bộ phận,Đề xuất mua VPP tháng 01/2025,5300100880000000,Mực Dấu Xanh,Hộp,2,1,Hộp,2,,,1/13/2025
+EP2501-0021,1/8/2025,Đặng Thị Mỹ Hạnh,Theo bộ phận,Đề xuất mua hộp quẹt cho CBCNV hút thuốc,0922700092000000,Bật lửa.,CAI,50,1,CAI,50,,Cho công nhân hút thuốc,1/10/2025
+EP2501-0022,1/8/2025,Võ Công Vũ,Theo bộ phận,Nhà vệ sinh khu vực phế liệu (xưởng ó)_ đội xây dựng Hận,0910900072000000,Lăn sơn 15 phân,CAI,2,1,CAI,2,,,1/10/2025
+EP2501-0022,1/8/2025,Võ Công Vũ,Theo bộ phận,Nhà vệ sinh khu vực phế liệu (xưởng ó)_ đội xây dựng Hận,0901800020000000,Bột trét tường,BAO,2,1,BAO,2,,,1/10/2025
+EP2501-0022,1/8/2025,Võ Công Vũ,Theo bộ phận,Nhà vệ sinh khu vực phế liệu (xưởng ó)_ đội xây dựng Hận,0904500010000000,Sơn màu xám,THUNG,2,1,THUNG,2,,,1/10/2025
+EP2501-0022,1/8/2025,Võ Công Vũ,Theo bộ phận,Nhà vệ sinh khu vực phế liệu (xưởng ó)_ đội xây dựng Hận,0910900020000000,CỌ SƠN 5 Phân,Cái,2,1,Cái,2,,,1/10/2025
+EP2501-0014,1/7/2025,Nguyễn Thị Vân Anh,Theo bộ phận,Thay thế đèn soi tẩy  bị hư cho QC,0902209060000000,Đèn soi-chiếu tẩy ( loại cầm tay),CAI,10,1,CAI,10,,,1/17/2025
+EP2501-0015,1/7/2025,Nguyễn Dũng Trung,Theo bộ phận,"Hạt Taical EFPP1001
+Dây đai ép kiện PP, màu xanh lá, K15.0mm
+Túi LDPE, trắng trong, K62
+Ống giấy cũ
+Hạt taical thổi
+Pallet",HAT-TACKS-1001,Hạt Taical EFPP1001 trắng sáng,Kg,162000,1,Kg,162000,TỒN KHO,,1/15/2025
+EP2501-0016,1/7/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200104070000000,Black Horse,CM2,10000,1,CM2,10000,,,1/8/2025
+EP2501-0016,1/7/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200104150000000,Blue Horse,CM2,10000,1,CM2,10000,,,1/8/2025
+EP2501-0016,1/7/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5300101106000000,WINSON-T101,CM2,10000,1,CM2,10000,,,1/8/2025
+EP2501-0016,1/7/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5300101108000000,WINSON-T301,CM2,10000,1,CM2,10000,,,1/8/2025
+EP2501-0016,1/7/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200105650000000,KCP đường kính trắng đặc biệt,CM2,10000,1,CM2,10000,,,1/8/2025
+EP2501-0016,1/7/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200103770000000,Aqua32,CM2,10000,1,CM2,10000,,,1/8/2025
+EP2501-0016,1/7/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200106310000000,ORANGE GLOBE 22.5,CM2,10000,1,CM2,10000,,,1/8/2025
+EP2501-0016,1/7/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200106330000000,Pink Globe,CM2,10000,1,CM2,10000,,,1/8/2025
+EP2501-0015,1/7/2025,Nguyễn Dũng Trung,Theo bộ phận,"Hạt Taical EFPP1001
+Dây đai ép kiện PP, màu xanh lá, K15.0mm
+Túi LDPE, trắng trong, K62
+Ống giấy cũ
+Hạt taical thổi
+Pallet",0500100110000000,"Dây đai ép kiện PP, màu xanh lá, K15.0mm, dày 1mm, tension >350kgF, TL: 10g/m",Cuộn,5,10,KG,50,SO2501-0009,,1/11/2025
+EP2501-0015,1/7/2025,Nguyễn Dũng Trung,Theo bộ phận,"Hạt Taical EFPP1001
+Dây đai ép kiện PP, màu xanh lá, K15.0mm
+Túi LDPE, trắng trong, K62
+Ống giấy cũ
+Hạt taical thổi
+Pallet",LDPE062097G050TT.KCP,"Túi LDPE, trắng trong, K62(+/-0.5)x97LL(+/-0.5), cắt dài 98cm + hàn 2 đường cách đáy <10mm, TL: 50(+/-1)gr.",CAI,500000,0.05,KG,25000,SO2411-0016,,1/20/2025
+EP2501-0017,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Mua vật tư phục vụ sản xuất,0902209090000000,Máng trượt tay gắp bao máy cắt may AUTO - (GC theo mẫu ),CAI,4,1,CAI,4,,Máy cắt số 1 và 2,1/18/2025
+EP2501-0017,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Mua vật tư phục vụ sản xuất,0922500100000000,Con lăn sắt chỉnh băng tải phi 75 x 30mm ( GC theo bản vẽ),CAI,2,1,CAI,2,,Máy in Jumbo,1/18/2025
+EP2501-0017,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Mua vật tư phục vụ sản xuất,0905300640000000,Ổ đỡ dao cắt Auto( theo bản vẽ).,CAI,2,1,CAI,2,,Máy cắt số 5,1/18/2025
+EP2501-0017,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Mua vật tư phục vụ sản xuất,9045002480000216,Dũa sắt tròn phi 12mm,CAI,1,1,CAI,1,,Máy cắt số 1,1/18/2025
+EP2501-0017,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Mua vật tư phục vụ sản xuất,0917300110000000,Dũa sắt tròn phi 14mm,CAI,1,1,CAI,1,,Máy cắt số 2,1/18/2025
+EP2501-0018,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sửa chữa máy móc thiết bị,5200111520000000,Quạt tản nhiệt NMB 4715MS-22T-B50 220VAC 120x120x38mm,CAI,10,1,CAI,10,,Phục vụ sửa chữa vì trong kho đã sử dụng hết,1/20/2025
+EP2501-0018,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sửa chữa máy móc thiết bị,0902208890000000,MCB - 2P-6A - 10KA Schneider,CAI,10,1,CAI,10,,Phục vụ sửa chữa vì trong kho đã sử dụng hết,1/20/2025
+EP2501-0018,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sửa chữa máy móc thiết bị,0906802090000000,MÁY IN ĐẦU CỐT LM-550E,CAI,1,1,CAI,1,,Cho tổ điện đánh số đầu cos,1/20/2025
+EP2501-0018,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sửa chữa máy móc thiết bị,0902211370000000,Rơ le bán dẫn Fotek SSR-25 VA,CAI,2,1,CAI,2,,Làm dao cắt nhiệt đuôi chỉ,1/20/2025
+EP2501-0018,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sửa chữa máy móc thiết bị,0902300150000000,Đầu dò nhiệt khoen gài M12- dãy đo từ 0-400*C-dây dài 5 mét.,Cái,5,1,Cái,5,,Làm dao cắt nhiệt đuôi chỉ,1/20/2025
+EP2501-0018,1/7/2025,Phạm Quang Đạt,Theo bộ phận,Vật tư thay thế sửa chữa máy móc thiết bị,0927600112000000,"Bộ điều khiển nhiệt độ AUTONICS TK4S-14RR 110-220VAC, 48x48mm",CAI,2,1,CAI,2,,Làm dao cắt nhiệt đuôi chỉ,1/20/2025
+EP2501-0015,1/7/2025,Nguyễn Dũng Trung,Theo bộ phận,"Hạt Taical EFPP1001
+Dây đai ép kiện PP, màu xanh lá, K15.0mm
+Túi LDPE, trắng trong, K62
+Ống giấy cũ
+Hạt taical thổi
+Pallet",5200101410000000,Ống giấy cũ dài trên 135cm.,KG,3000,1,KG,3000,TỒN KHO,,1/13/2025
+EP2501-0015,1/7/2025,Nguyễn Dũng Trung,Theo bộ phận,"Hạt Taical EFPP1001
+Dây đai ép kiện PP, màu xanh lá, K15.0mm
+Túi LDPE, trắng trong, K62
+Ống giấy cũ
+Hạt taical thổi
+Pallet",HAT-TALC-THOI-IFC7,Hạt taical thổi HDPE IF-PE114C7 (Đại Á),KG,2000,1,KG,2000,TỒN KHO,,1/20/2025
+EP2501-0015,1/7/2025,Nguyễn Dũng Trung,Theo bộ phận,"Hạt Taical EFPP1001
+Dây đai ép kiện PP, màu xanh lá, K15.0mm
+Túi LDPE, trắng trong, K62
+Ống giấy cũ
+Hạt taical thổi
+Pallet",5200110060020000,"Pallet gỗ xuất khẩu hàng hóa; kích thước = 90.0cm (W) x 120.0cm (L) x 15.0cm (H); pallet 4 chiều; tải trọng nâng 1000kg, tải trọng tĩnh 2000kg; hun trùng tiêu chuẩn ISPM15; độ ẩm <20%, gỗ mới.",CAI,40,1,CAI,40,SO2412-0060,,2/17/2025
+EP2501-0015,1/7/2025,Nguyễn Dũng Trung,Theo bộ phận,"Hạt Taical EFPP1001
+Dây đai ép kiện PP, màu xanh lá, K15.0mm
+Túi LDPE, trắng trong, K62
+Ống giấy cũ
+Hạt taical thổi
+Pallet",5200110060020000,"Pallet gỗ xuất khẩu hàng hóa; kích thước = 90.0cm (W) x 120.0cm (L) x 15.0cm (H); pallet 4 chiều; tải trọng nâng 1000kg, tải trọng tĩnh 2000kg; hun trùng tiêu chuẩn ISPM15; độ ẩm <20%, gỗ mới.",CAI,40,1,CAI,40,SO2501-0004,,2/17/2025
+EP2501-0015,1/7/2025,Nguyễn Dũng Trung,Theo bộ phận,"Hạt Taical EFPP1001
+Dây đai ép kiện PP, màu xanh lá, K15.0mm
+Túi LDPE, trắng trong, K62
+Ống giấy cũ
+Hạt taical thổi
+Pallet",5200110060020000,"Pallet gỗ xuất khẩu hàng hóa; kích thước = 90.0cm (W) x 120.0cm (L) x 15.0cm (H); pallet 4 chiều; tải trọng nâng 1000kg, tải trọng tĩnh 2000kg; hun trùng tiêu chuẩn ISPM15; độ ẩm <20%, gỗ mới.",CAI,40,1,CAI,40,SO2501-0005,,2/17/2025
+EP2501-0019,1/7/2025,Nguyễn Thanh Tú,Theo bộ phận,ĐẶT MUA VÒNG DỆT - CHO CĐ DỆT - SỬ DỤNG CHO ĐH UNIPACK - SO2412-0060,5200111510000000,Vòng dệt Khổ 178.8 đường kính vòng 113.5 khoan lỗ 10li tay bắt vòng 6 lỗ.,CAI,1,1,CAI,1,,,1/10/2025
+EP2501-0013,1/6/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-DMC,Dung môi Chỉnh,KG,24,1,KG,24,,Máy in,1/9/2025
+EP2501-0013,1/6/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FLDO192GT,Đỏ 192C FL gián tiếp,KG,50,1,KG,50,,Máy in,1/9/2025
+EP2501-0013,1/6/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL39,Xanh Dương 39 FL,KG,25,1,KG,25,,Máy in,1/9/2025
+EP2501-0013,1/6/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL92DB,Đen 92   trực tiếp.( mực đặc biệt dùng cho in bao có  độ bám cao),KG,7,1,KG,7,Mực yêu cầu độ bám cao,Máy in,1/9/2025
+EP2501-0013,1/6/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL185DB,Đỏ Red 185C trực tiếp.( mực đặc biệt dùng cho in bao có độ bám cao),KG,7,1,KG,7,Mực yêu cầu độ bám cao,Máy in,1/9/2025
+EP2501-0013,1/6/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FLPROBLUEDB,Xanh Dương Process Blue  trực tiếp.( mực đặc biệt dùng cho in bao  có độ bám cao),KG,7,1,KG,7,Mực yêu cầu độ bám cao,Máy in,1/9/2025
+EP2501-0009,1/4/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư sửa chữa máy ép kiện.,0902700910000000,Van 1 chiều thủy lực CIT-04 ren 21 mm,CAI,1,1,CAI,1,,Thay thế sửa chữa,1/6/2025
+EP2501-0009,1/4/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư sửa chữa máy ép kiện.,09061047000000,Nối thủy lực 1 dầu ren trong 27 côn lõm - 1 đầu răng ngoài 21.,CAI,2,1,CAI,2,,Thay thế sửa chữa,1/6/2025
+EP2501-0009,1/4/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư sửa chữa máy ép kiện.,0901101740000000,Nối thủy lực 27 ( theo mẫu ),CAI,2,1,CAI,2,,Thay thế sửa chữa,1/6/2025
+EP2501-0010,1/4/2025,Hà Mạnh Hùng,Theo bộ phận,Thiết bị cấp cho đội lắp máy PKT.,0906802080000000,Máy Siết Bu Lông Dùng Pin ITMAN HT/IWS,CAI,1,1,CAI,1,,Công cụ dụng cụ.,1/6/2025
+EP2501-0011,1/4/2025,Hà Mạnh Hùng,Theo bộ phận,Vật tư lắp đặt cho máy dệt RX6.0 Pro phân xưởng 6.,0902211360000000,Quạt Thông Gió Dasin KVF-1845  - 380V - 135W,CAI,27,1,CAI,27,,Lắp đặt đầu tư mới.,1/10/2025
+EP2501-0006,1/3/2025,Nguyễn Dũng Trung,Theo bộ phận,Sủi kiếng jumbo ( sủi kiếng mua ngoài ),SUI-KIENG-JB,Sủi kiếng jumbo ( sủi kiếng mua ngoài ),KG,2000,1,KG,2000,TỒN KHO,,1/6/2025
+EP2501-0007,1/3/2025,Đặng Thị Mỹ Hạnh,Theo bộ phận,Đề xuất mua xà bông rửa tay công nhân,5200110650000003,Xà phòng rửa chén,THUNG,5,1,THUNG,5,,,1/5/2025
+EP2501-0008,1/3/2025,Nguyễn Dũng Trung,Theo bộ phận,"Tem bao jumbo NISSIN 01JBO-NIS110106-BEI-KSR
+Túi tài liệu PP+PE, 14cm x 22cm có nắp  , PP màu beige  có tráng trong, PE 100mic.",10TEM-01JBO-NIS110106,Tem bao jumbo NISSIN 01JBO-NIS110106-BEI-KSR,CAI,2050,0.001,KG,2.05,Jumbo,,1/6/2025
+EP2501-0008,1/3/2025,Nguyễn Dũng Trung,Theo bộ phận,"Tem bao jumbo NISSIN 01JBO-NIS110106-BEI-KSR
+Túi tài liệu PP+PE, 14cm x 22cm có nắp  , PP màu beige  có tráng trong, PE 100mic.",10POC-NIS110106-0000,"Túi tài liệu PP+PE, 14cm x 22cm có nắp  , PP màu beige  có tráng trong, PE 100mic.",CAI,2050,0.016,KG,32.8,Jumbo,,1/6/2025
+EP2501-0001,1/2/2025,Nguyễn Dũng Trung,Theo bộ phận,"Vải Manh PP, màu trắng UV, K119.0cm, MĐ: 13.0x13.0, GC 2 điểm chỉ đôi 30mm, ID định vị màu xanh dương giữa gia cường, 42+35+42,",THACAAGS119013013237TRDU,"Vải Manh PP, màu trắng UV, K119.0cm, MĐ: 13.0x13.0, GC 2 điểm chỉ đôi 30mm, ID định vị màu xanh dương giữa gia cường, 42+35+42, TL: 237.0g/mét. (194.2gsm +GC 5.9 g/m)",M,44000,0.237,KG,10428,SO2412-0055,,1/6/2025
+EP2501-0002,1/2/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5300101126000000,GJ-E1422 (LOUIS),CM2,10000,1,CM2,10000,,,1/3/2025
+EP2501-0002,1/2/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200105600000000,KCP Đường kính trắng cao cấp (ĐỎ),CM2,10000,1,CM2,10000,,,1/3/2025
+EP2501-0002,1/2/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200105620000000,KCP ĐƯỜNG TINH LUYỆN (CAM),CM2,10000,1,CM2,10000,,,1/3/2025
+EP2501-0002,1/2/2025,Bùi Thái Hòa,Theo bộ phận,Đặt khắc bản in cao su,5200108690000000,Bản in EL TORO - UNIPACK,CM2,10000,1,CM2,10000,,,1/3/2025
+EP2501-0003,1/2/2025,Thái Minh Quyết,Theo bộ phận,Mua hạt màu cho thử nghiệm bao jumbo louis ( 50kg),HAT-BEIGE-EMH66185,Hạt màu beige EMH66185,KG,50,1,KG,50,,,1/3/2025
+EP2501-0004,1/2/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FLDO192,Đỏ 192C FL,KG,50,1,KG,50,,Máy in,1/5/2025
+EP2501-0004,1/2/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-DML,Dung Môi PP - Dung Môi trực tiếp,KG,1020,1,KG,1020,,Máy in,1/5/2025
+EP2501-0004,1/2/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FL92GT,Đen 92 FL gián tiếp,KG,50,1,KG,50,,Máy in,1/5/2025
+EP2501-0004,1/2/2025,Nguyễn Văn Long,Theo bộ phận,ĐỀ XUẤT MỰC IN CHO CÔNG ĐOẠN IN,MDM-FLXL3415C,Xanh Lá 3415C FL,KG,25,1,KG,25,,Máy in,1/5/2025
+EP2501-0005,1/2/2025,Trần Trung Hiếu,Theo bộ phận,"1. Cáp chuyển tín hiệu màn hình máy scan sợi 8.
+2. Bộ phát wifi cân cuộn xưởng 1.",0901000450000000,Cáp Displayport,Cái,1,1,Cái,1,,Chuyển tín hiệu màn hình máy scan sợi,1/2/2025
+EP2501-0005,1/2/2025,Trần Trung Hiếu,Theo bộ phận,"1. Cáp chuyển tín hiệu màn hình máy scan sợi 8.
+2. Bộ phát wifi cân cuộn xưởng 1.",BCD008,Bộ thu phát Wifi,Bộ,1,1,Bộ,1,,Phát wifi cho máy tính cân cuộn xưởng 1,1/3/2025
